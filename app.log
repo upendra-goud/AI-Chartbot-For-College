@@ -1,0 +1,1398 @@
+2025-06-07 21:39:26,937 | INFO |  * Restarting with stat
+2025-06-07 21:39:27,409 | WARNING |  * Debugger is active!
+2025-06-07 21:39:27,413 | INFO |  * Debugger PIN: 760-872-756
+2025-06-07 21:39:27,430 | INFO |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-06-07 21:41:32,708 | INFO | 127.0.0.1 - - [07/Jun/2025 21:41:32] "GET / HTTP/1.1" 200 -
+2025-06-07 21:41:32,964 | INFO | 127.0.0.1 - - [07/Jun/2025 21:41:32] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-06-07 21:41:33,613 | INFO | 127.0.0.1 - - [07/Jun/2025 21:41:33] "[33mGET /static/favicon.ico HTTP/1.1[0m" 404 -
+2025-06-07 21:41:41,554 | INFO | 127.0.0.1 - - [07/Jun/2025 21:41:41] "POST /chat HTTP/1.1" 200 -
+2025-06-07 21:41:50,254 | INFO | 127.0.0.1 - - [07/Jun/2025 21:41:50] "POST /chat HTTP/1.1" 200 -
+2025-06-07 21:41:59,088 | INFO | 127.0.0.1 - - [07/Jun/2025 21:41:59] "POST /chat HTTP/1.1" 200 -
+2025-06-07 21:42:05,600 | INFO | 127.0.0.1 - - [07/Jun/2025 21:42:05] "POST /chat HTTP/1.1" 200 -
+2025-06-07 21:42:19,013 | INFO | 127.0.0.1 - - [07/Jun/2025 21:42:19] "POST /chat HTTP/1.1" 200 -
+2025-06-07 21:42:24,963 | INFO | 127.0.0.1 - - [07/Jun/2025 21:42:24] "GET /login HTTP/1.1" 200 -
+2025-06-07 21:42:25,267 | INFO | 127.0.0.1 - - [07/Jun/2025 21:42:25] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-07 21:42:25,629 | INFO | 127.0.0.1 - - [07/Jun/2025 21:42:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-07 21:42:46,698 | ERROR | Failed login attempt for username: admin
+2025-06-07 21:42:46,708 | INFO | 127.0.0.1 - - [07/Jun/2025 21:42:46] "POST /login HTTP/1.1" 200 -
+2025-06-07 21:42:46,997 | INFO | 127.0.0.1 - - [07/Jun/2025 21:42:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-07 21:43:06,852 | ERROR | Failed login attempt for username: student1
+2025-06-07 21:43:06,852 | INFO | 127.0.0.1 - - [07/Jun/2025 21:43:06] "POST /login HTTP/1.1" 200 -
+2025-06-07 21:43:06,877 | INFO | 127.0.0.1 - - [07/Jun/2025 21:43:06] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-07 21:43:23,234 | ERROR | Failed login attempt for username: admin
+2025-06-07 21:43:23,237 | INFO | 127.0.0.1 - - [07/Jun/2025 21:43:23] "POST /login HTTP/1.1" 200 -
+2025-06-07 21:43:23,544 | INFO | 127.0.0.1 - - [07/Jun/2025 21:43:23] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-07 21:43:40,583 | ERROR | Failed login attempt for username: upendra
+2025-06-07 21:43:40,583 | INFO | 127.0.0.1 - - [07/Jun/2025 21:43:40] "POST /login HTTP/1.1" 200 -
+2025-06-07 21:43:40,616 | INFO | 127.0.0.1 - - [07/Jun/2025 21:43:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-07 21:43:52,862 | INFO | 127.0.0.1 - - [07/Jun/2025 21:43:52] "GET / HTTP/1.1" 200 -
+2025-06-07 21:43:53,169 | INFO | 127.0.0.1 - - [07/Jun/2025 21:43:53] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-07 21:45:13,280 | INFO | 127.0.0.1 - - [07/Jun/2025 21:45:13] "[33mGET /admin HTTP/1.1[0m" 404 -
+2025-06-07 21:45:20,977 | INFO | 127.0.0.1 - - [07/Jun/2025 21:45:20] "GET /login HTTP/1.1" 200 -
+2025-06-07 21:45:20,999 | INFO | 127.0.0.1 - - [07/Jun/2025 21:45:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-07 21:45:32,263 | ERROR | Failed login attempt for username: admin
+2025-06-07 21:45:32,268 | INFO | 127.0.0.1 - - [07/Jun/2025 21:45:32] "POST /login HTTP/1.1" 200 -
+2025-06-07 21:45:32,580 | INFO | 127.0.0.1 - - [07/Jun/2025 21:45:32] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-07 21:46:12,235 | ERROR | Failed login attempt for username: admin
+2025-06-07 21:46:12,235 | INFO | 127.0.0.1 - - [07/Jun/2025 21:46:12] "POST /login HTTP/1.1" 200 -
+2025-06-07 21:46:12,249 | INFO | 127.0.0.1 - - [07/Jun/2025 21:46:12] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-07 21:47:22,800 | ERROR | Failed login attempt for username: admin
+2025-06-07 21:47:22,804 | INFO | 127.0.0.1 - - [07/Jun/2025 21:47:22] "POST /login HTTP/1.1" 200 -
+2025-06-07 21:47:22,823 | INFO | 127.0.0.1 - - [07/Jun/2025 21:47:22] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-07 21:49:51,873 | INFO |  * Restarting with stat
+2025-06-07 21:49:52,373 | WARNING |  * Debugger is active!
+2025-06-07 21:49:52,377 | INFO |  * Debugger PIN: 760-872-756
+2025-06-07 21:49:52,389 | INFO |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-06-07 21:50:14,413 | ERROR | Failed login attempt for username: admin
+2025-06-07 21:50:14,430 | INFO | 127.0.0.1 - - [07/Jun/2025 21:50:14] "POST /login HTTP/1.1" 200 -
+2025-06-07 21:50:14,608 | INFO | 127.0.0.1 - - [07/Jun/2025 21:50:14] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-07 21:50:29,918 | ERROR | Failed login attempt for username: admin
+2025-06-07 21:50:29,920 | INFO | 127.0.0.1 - - [07/Jun/2025 21:50:29] "POST /login HTTP/1.1" 200 -
+2025-06-07 21:50:30,230 | INFO | 127.0.0.1 - - [07/Jun/2025 21:50:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-07 21:50:34,341 | INFO | 127.0.0.1 - - [07/Jun/2025 21:50:34] "GET / HTTP/1.1" 200 -
+2025-06-07 21:50:34,566 | INFO | 127.0.0.1 - - [07/Jun/2025 21:50:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-07 21:51:50,440 | INFO | 127.0.0.1 - - [07/Jun/2025 21:51:50] "GET /login HTTP/1.1" 200 -
+2025-06-07 21:51:50,663 | INFO | 127.0.0.1 - - [07/Jun/2025 21:51:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-07 21:52:17,916 | ERROR | Failed login attempt for username: admin
+2025-06-07 21:52:17,918 | INFO | 127.0.0.1 - - [07/Jun/2025 21:52:17] "POST /login HTTP/1.1" 200 -
+2025-06-07 21:52:18,233 | INFO | 127.0.0.1 - - [07/Jun/2025 21:52:18] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-07 21:52:36,300 | ERROR | Failed login attempt for username: teacher1
+2025-06-07 21:52:36,300 | INFO | 127.0.0.1 - - [07/Jun/2025 21:52:36] "POST /login HTTP/1.1" 200 -
+2025-06-07 21:52:36,318 | INFO | 127.0.0.1 - - [07/Jun/2025 21:52:36] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-07 21:54:49,949 | INFO |  * Restarting with stat
+2025-06-07 21:54:50,497 | WARNING |  * Debugger is active!
+2025-06-07 21:54:50,513 | INFO |  * Debugger PIN: 760-872-756
+2025-06-07 21:54:50,528 | INFO |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-06-07 21:55:04,690 | INFO | 127.0.0.1 - - [07/Jun/2025 21:55:04] "GET /login HTTP/1.1" 200 -
+2025-06-07 21:55:04,835 | INFO | 127.0.0.1 - - [07/Jun/2025 21:55:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-07 21:55:37,480 | ERROR | Failed login attempt for username: admin
+2025-06-07 21:55:37,480 | INFO | 127.0.0.1 - - [07/Jun/2025 21:55:37] "POST /login HTTP/1.1" 200 -
+2025-06-07 21:55:37,783 | INFO | 127.0.0.1 - - [07/Jun/2025 21:55:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-07 22:01:10,762 | INFO |  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\ace-college-chatbot - Copy\\auth.py', reloading
+2025-06-07 22:01:10,848 | INFO |  * Restarting with stat
+2025-06-07 22:01:11,506 | WARNING |  * Debugger is active!
+2025-06-07 22:01:11,510 | INFO |  * Debugger PIN: 760-872-756
+2025-06-07 22:01:11,525 | INFO |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-06-07 22:02:31,622 | INFO |  * Restarting with stat
+2025-06-07 22:02:32,127 | WARNING |  * Debugger is active!
+2025-06-07 22:02:32,127 | INFO |  * Debugger PIN: 760-872-756
+2025-06-07 22:02:32,144 | INFO |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-06-07 22:02:46,403 | INFO | 127.0.0.1 - - [07/Jun/2025 22:02:46] "GET /login HTTP/1.1" 200 -
+2025-06-07 22:02:46,564 | INFO | 127.0.0.1 - - [07/Jun/2025 22:02:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-07 22:03:18,863 | ERROR | Failed login attempt for username: admin
+2025-06-07 22:03:18,870 | INFO | 127.0.0.1 - - [07/Jun/2025 22:03:18] "POST /login HTTP/1.1" 200 -
+2025-06-07 22:03:19,163 | INFO | 127.0.0.1 - - [07/Jun/2025 22:03:19] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-07 22:03:35,781 | ERROR | Failed login attempt for username: admin
+2025-06-07 22:03:35,782 | INFO | 127.0.0.1 - - [07/Jun/2025 22:03:35] "POST /login HTTP/1.1" 200 -
+2025-06-07 22:03:35,800 | INFO | 127.0.0.1 - - [07/Jun/2025 22:03:35] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-07 22:03:50,671 | ERROR | Failed login attempt for username: teacher1
+2025-06-07 22:03:50,671 | INFO | 127.0.0.1 - - [07/Jun/2025 22:03:50] "POST /login HTTP/1.1" 200 -
+2025-06-07 22:03:50,968 | INFO | 127.0.0.1 - - [07/Jun/2025 22:03:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-07 22:03:53,001 | INFO | 127.0.0.1 - - [07/Jun/2025 22:03:53] "GET / HTTP/1.1" 200 -
+2025-06-07 22:03:53,239 | INFO | 127.0.0.1 - - [07/Jun/2025 22:03:53] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-07 22:04:40,503 | INFO | 127.0.0.1 - - [07/Jun/2025 22:04:40] "GET /login HTTP/1.1" 200 -
+2025-06-07 22:04:40,820 | INFO | 127.0.0.1 - - [07/Jun/2025 22:04:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-07 22:07:02,872 | INFO |  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\ace-college-chatbot - Copy\\auth.py', reloading
+2025-06-07 22:07:02,955 | INFO |  * Restarting with stat
+2025-06-07 22:07:03,497 | WARNING |  * Debugger is active!
+2025-06-07 22:07:03,497 | INFO |  * Debugger PIN: 760-872-756
+2025-06-07 22:07:03,513 | INFO |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-06-07 22:07:41,166 | INFO | 127.0.0.1 - - [07/Jun/2025 22:07:41] "GET /login HTTP/1.1" 200 -
+2025-06-07 22:07:41,478 | INFO | 127.0.0.1 - - [07/Jun/2025 22:07:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-07 22:08:01,757 | ERROR | Failed login attempt for username: admin
+2025-06-07 22:08:01,762 | INFO | 127.0.0.1 - - [07/Jun/2025 22:08:01] "POST /login HTTP/1.1" 200 -
+2025-06-07 22:08:01,778 | INFO | 127.0.0.1 - - [07/Jun/2025 22:08:01] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-07 22:08:13,260 | INFO |  * Restarting with stat
+2025-06-07 22:08:13,783 | WARNING |  * Debugger is active!
+2025-06-07 22:08:13,783 | INFO |  * Debugger PIN: 760-872-756
+2025-06-07 22:08:13,802 | INFO |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-06-07 22:08:31,446 | ERROR | Failed login attempt for username: admin
+2025-06-07 22:08:31,455 | INFO | 127.0.0.1 - - [07/Jun/2025 22:08:31] "POST /login HTTP/1.1" 200 -
+2025-06-07 22:08:31,571 | INFO | 127.0.0.1 - - [07/Jun/2025 22:08:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-07 22:08:44,280 | ERROR | Failed login attempt for username: student1
+2025-06-07 22:08:44,285 | INFO | 127.0.0.1 - - [07/Jun/2025 22:08:44] "POST /login HTTP/1.1" 200 -
+2025-06-07 22:08:44,599 | INFO | 127.0.0.1 - - [07/Jun/2025 22:08:44] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-07 22:08:58,250 | ERROR | Failed login attempt for username: teacher1
+2025-06-07 22:08:58,250 | INFO | 127.0.0.1 - - [07/Jun/2025 22:08:58] "POST /login HTTP/1.1" 200 -
+2025-06-07 22:08:58,270 | INFO | 127.0.0.1 - - [07/Jun/2025 22:08:58] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-07 22:09:00,122 | INFO | 127.0.0.1 - - [07/Jun/2025 22:09:00] "GET / HTTP/1.1" 200 -
+2025-06-07 22:09:00,426 | INFO | 127.0.0.1 - - [07/Jun/2025 22:09:00] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-07 22:10:08,617 | INFO | 127.0.0.1 - - [07/Jun/2025 22:10:08] "[32mGET /admin/dashboard HTTP/1.1[0m" 302 -
+2025-06-07 22:10:08,617 | INFO | 127.0.0.1 - - [07/Jun/2025 22:10:08] "GET /login HTTP/1.1" 200 -
+2025-06-07 22:10:08,856 | INFO | 127.0.0.1 - - [07/Jun/2025 22:10:08] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-07 22:10:24,201 | ERROR | Failed login attempt for username: admin
+2025-06-07 22:10:24,211 | INFO | 127.0.0.1 - - [07/Jun/2025 22:10:24] "POST /login HTTP/1.1" 200 -
+2025-06-07 22:10:24,244 | INFO | 127.0.0.1 - - [07/Jun/2025 22:10:24] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-07 22:10:56,042 | ERROR | Failed login attempt for username: admin
+2025-06-07 22:10:56,048 | INFO | 127.0.0.1 - - [07/Jun/2025 22:10:56] "POST /login HTTP/1.1" 200 -
+2025-06-07 22:10:56,353 | INFO | 127.0.0.1 - - [07/Jun/2025 22:10:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-07 22:10:58,482 | INFO | 127.0.0.1 - - [07/Jun/2025 22:10:58] "GET / HTTP/1.1" 200 -
+2025-06-07 22:10:58,724 | INFO | 127.0.0.1 - - [07/Jun/2025 22:10:58] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 12:37:11,649 | INFO |  * Restarting with stat
+2025-06-08 12:37:12,229 | WARNING |  * Debugger is active!
+2025-06-08 12:37:12,233 | INFO |  * Debugger PIN: 760-872-756
+2025-06-08 12:37:12,249 | INFO |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-06-08 12:38:49,468 | INFO | 127.0.0.1 - - [08/Jun/2025 12:38:49] "GET / HTTP/1.1" 200 -
+2025-06-08 12:38:49,744 | INFO | 127.0.0.1 - - [08/Jun/2025 12:38:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 12:38:50,090 | INFO | 127.0.0.1 - - [08/Jun/2025 12:38:50] "[33mGET /static/favicon.ico HTTP/1.1[0m" 404 -
+2025-06-08 12:38:58,538 | INFO | 127.0.0.1 - - [08/Jun/2025 12:38:58] "POST /chat HTTP/1.1" 200 -
+2025-06-08 12:39:03,582 | INFO | 127.0.0.1 - - [08/Jun/2025 12:39:03] "GET /login HTTP/1.1" 200 -
+2025-06-08 12:39:03,889 | INFO | 127.0.0.1 - - [08/Jun/2025 12:39:03] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 12:39:04,223 | INFO | 127.0.0.1 - - [08/Jun/2025 12:39:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-08 12:41:00,016 | ERROR | Failed login attempt for username: admin
+2025-06-08 12:41:00,024 | INFO | 127.0.0.1 - - [08/Jun/2025 12:41:00] "POST /login HTTP/1.1" 200 -
+2025-06-08 12:41:00,045 | INFO | 127.0.0.1 - - [08/Jun/2025 12:41:00] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 12:42:50,702 | INFO |  * Restarting with stat
+2025-06-08 12:42:51,930 | WARNING |  * Debugger is active!
+2025-06-08 12:42:51,942 | INFO |  * Debugger PIN: 760-872-756
+2025-06-08 12:42:51,983 | INFO |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-06-08 12:43:08,393 | ERROR | Failed login attempt for username: admin
+2025-06-08 12:43:08,412 | INFO | 127.0.0.1 - - [08/Jun/2025 12:43:08] "POST /login HTTP/1.1" 200 -
+2025-06-08 12:43:08,610 | INFO | 127.0.0.1 - - [08/Jun/2025 12:43:08] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 12:43:27,688 | ERROR | Failed login attempt for username: admin
+2025-06-08 12:43:27,691 | INFO | 127.0.0.1 - - [08/Jun/2025 12:43:27] "POST /login HTTP/1.1" 200 -
+2025-06-08 12:43:28,001 | INFO | 127.0.0.1 - - [08/Jun/2025 12:43:28] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 12:48:56,710 | INFO |  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\ace-college-chatbot - Copy\\app.py', reloading
+2025-06-08 12:48:56,798 | INFO |  * Restarting with stat
+2025-06-08 12:48:57,456 | WARNING |  * Debugger is active!
+2025-06-08 12:48:57,456 | INFO |  * Debugger PIN: 760-872-756
+2025-06-08 12:48:57,479 | INFO |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-06-08 12:51:44,898 | INFO |  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\ace-college-chatbot - Copy\\auth.py', reloading
+2025-06-08 12:51:44,989 | INFO |  * Restarting with stat
+2025-06-08 12:51:45,628 | WARNING |  * Debugger is active!
+2025-06-08 12:51:45,631 | INFO |  * Debugger PIN: 760-872-756
+2025-06-08 12:51:45,648 | INFO |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-06-08 12:52:25,268 | INFO |  * Restarting with stat
+2025-06-08 12:52:25,759 | WARNING |  * Debugger is active!
+2025-06-08 12:52:25,763 | INFO |  * Debugger PIN: 760-872-756
+2025-06-08 12:52:25,775 | INFO |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-06-08 12:52:54,422 | INFO | 127.0.0.1 - - [08/Jun/2025 12:52:54] "GET /login HTTP/1.1" 200 -
+2025-06-08 12:52:54,866 | INFO | 127.0.0.1 - - [08/Jun/2025 12:52:54] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 12:53:22,238 | ERROR | Failed login attempt for username: admin
+2025-06-08 12:53:22,252 | INFO | 127.0.0.1 - - [08/Jun/2025 12:53:22] "POST /login HTTP/1.1" 200 -
+2025-06-08 12:53:22,278 | INFO | 127.0.0.1 - - [08/Jun/2025 12:53:22] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 12:54:15,758 | INFO |  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\ace-college-chatbot - Copy\\auth.py', reloading
+2025-06-08 12:54:15,827 | INFO |  * Restarting with stat
+2025-06-08 12:54:16,403 | WARNING |  * Debugger is active!
+2025-06-08 12:54:16,407 | INFO |  * Debugger PIN: 760-872-756
+2025-06-08 12:54:16,422 | INFO |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-06-08 12:54:53,853 | INFO |  * Restarting with stat
+2025-06-08 12:54:54,337 | WARNING |  * Debugger is active!
+2025-06-08 12:54:54,338 | INFO |  * Debugger PIN: 760-872-756
+2025-06-08 12:54:54,355 | INFO |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-06-08 12:55:02,147 | INFO | 127.0.0.1 - - [08/Jun/2025 12:55:02] "GET /login HTTP/1.1" 200 -
+2025-06-08 12:55:02,578 | INFO | 127.0.0.1 - - [08/Jun/2025 12:55:02] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 12:55:16,309 | INFO | User admin logged in with role admin
+2025-06-08 12:55:16,314 | INFO | 127.0.0.1 - - [08/Jun/2025 12:55:16] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-06-08 12:55:16,481 | INFO | 127.0.0.1 - - [08/Jun/2025 12:55:16] "[35m[1mGET /admin/dashboard HTTP/1.1[0m" 500 -
+2025-06-08 12:55:16,528 | INFO | 127.0.0.1 - - [08/Jun/2025 12:55:16] "GET /admin/dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-06-08 12:55:16,910 | INFO | 127.0.0.1 - - [08/Jun/2025 12:55:16] "GET /admin/dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-06-08 12:55:17,261 | INFO | 127.0.0.1 - - [08/Jun/2025 12:55:17] "GET /admin/dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-06-08 12:55:17,278 | INFO | 127.0.0.1 - - [08/Jun/2025 12:55:17] "GET /admin/dashboard?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2025-06-08 12:55:17,500 | INFO | 127.0.0.1 - - [08/Jun/2025 12:55:17] "GET /admin/dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-06-08 12:59:48,434 | INFO |  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\ace-college-chatbot - Copy\\models.py', reloading
+2025-06-08 12:59:48,494 | INFO |  * Restarting with stat
+2025-06-08 13:04:40,384 | INFO |  * Restarting with stat
+2025-06-08 13:04:40,914 | WARNING |  * Debugger is active!
+2025-06-08 13:04:40,914 | INFO |  * Debugger PIN: 760-872-756
+2025-06-08 13:04:40,937 | INFO |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-06-08 13:04:44,950 | INFO | 127.0.0.1 - - [08/Jun/2025 13:04:44] "GET /login HTTP/1.1" 200 -
+2025-06-08 13:04:45,021 | INFO | 127.0.0.1 - - [08/Jun/2025 13:04:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:04:57,774 | ERROR | Failed login attempt for username: admin
+2025-06-08 13:04:57,774 | INFO | 127.0.0.1 - - [08/Jun/2025 13:04:57] "POST /login HTTP/1.1" 200 -
+2025-06-08 13:04:57,799 | INFO | 127.0.0.1 - - [08/Jun/2025 13:04:57] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:05:16,584 | ERROR | Failed login attempt for username: admin
+2025-06-08 13:05:16,594 | INFO | 127.0.0.1 - - [08/Jun/2025 13:05:16] "POST /login HTTP/1.1" 200 -
+2025-06-08 13:05:16,626 | INFO | 127.0.0.1 - - [08/Jun/2025 13:05:16] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:05:35,073 | ERROR | Failed login attempt for username: admin
+2025-06-08 13:05:35,076 | INFO | 127.0.0.1 - - [08/Jun/2025 13:05:35] "POST /login HTTP/1.1" 200 -
+2025-06-08 13:05:35,098 | INFO | 127.0.0.1 - - [08/Jun/2025 13:05:35] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:05:44,102 | INFO |  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\ace-college-chatbot - Copy\\auth.py', reloading
+2025-06-08 13:05:44,171 | INFO |  * Restarting with stat
+2025-06-08 13:05:44,714 | WARNING |  * Debugger is active!
+2025-06-08 13:05:44,714 | INFO |  * Debugger PIN: 760-872-756
+2025-06-08 13:05:44,751 | INFO |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-06-08 13:05:58,752 | INFO | User admin logged in with role admin
+2025-06-08 13:05:58,762 | INFO | 127.0.0.1 - - [08/Jun/2025 13:05:58] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-06-08 13:05:58,799 | INFO | 127.0.0.1 - - [08/Jun/2025 13:05:58] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-06-08 13:05:59,114 | INFO | 127.0.0.1 - - [08/Jun/2025 13:05:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:06:07,551 | INFO | 127.0.0.1 - - [08/Jun/2025 13:06:07] "[35m[1mGET /admin/manage HTTP/1.1[0m" 500 -
+2025-06-08 13:06:07,715 | INFO | 127.0.0.1 - - [08/Jun/2025 13:06:07] "GET /admin/manage?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-06-08 13:06:07,715 | INFO | 127.0.0.1 - - [08/Jun/2025 13:06:07] "GET /admin/manage?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-06-08 13:06:07,880 | INFO | 127.0.0.1 - - [08/Jun/2025 13:06:07] "GET /admin/manage?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2025-06-08 13:06:08,040 | INFO | 127.0.0.1 - - [08/Jun/2025 13:06:08] "GET /admin/manage?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-06-08 13:06:21,688 | INFO | User admin logged out
+2025-06-08 13:06:21,692 | INFO | 127.0.0.1 - - [08/Jun/2025 13:06:21] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-06-08 13:06:21,709 | INFO | 127.0.0.1 - - [08/Jun/2025 13:06:21] "GET / HTTP/1.1" 200 -
+2025-06-08 13:06:21,928 | INFO | 127.0.0.1 - - [08/Jun/2025 13:06:21] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:06:24,404 | INFO | 127.0.0.1 - - [08/Jun/2025 13:06:24] "GET /login HTTP/1.1" 200 -
+2025-06-08 13:06:24,649 | INFO | 127.0.0.1 - - [08/Jun/2025 13:06:24] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:06:34,179 | ERROR | Failed login attempt for username: student1
+2025-06-08 13:06:34,182 | INFO | 127.0.0.1 - - [08/Jun/2025 13:06:34] "POST /login HTTP/1.1" 200 -
+2025-06-08 13:06:34,484 | INFO | 127.0.0.1 - - [08/Jun/2025 13:06:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:06:45,744 | INFO | User teacher1 logged in with role teacher
+2025-06-08 13:06:45,746 | INFO | 127.0.0.1 - - [08/Jun/2025 13:06:45] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-06-08 13:06:45,914 | INFO | 127.0.0.1 - - [08/Jun/2025 13:06:45] "[35m[1mGET /teacher/dashboard HTTP/1.1[0m" 500 -
+2025-06-08 13:06:45,992 | INFO | 127.0.0.1 - - [08/Jun/2025 13:06:45] "GET /teacher/dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-06-08 13:06:46,234 | INFO | 127.0.0.1 - - [08/Jun/2025 13:06:46] "GET /teacher/dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-06-08 13:06:46,559 | INFO | 127.0.0.1 - - [08/Jun/2025 13:06:46] "GET /teacher/dashboard?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2025-06-08 13:06:46,564 | INFO | 127.0.0.1 - - [08/Jun/2025 13:06:46] "GET /teacher/dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-06-08 13:06:46,824 | INFO | 127.0.0.1 - - [08/Jun/2025 13:06:46] "GET /teacher/dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-06-08 13:10:55,695 | INFO |  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\ace-college-chatbot - Copy\\app.py', reloading
+2025-06-08 13:10:55,802 | INFO |  * Restarting with stat
+2025-06-08 13:10:56,640 | WARNING |  * Debugger is active!
+2025-06-08 13:10:56,644 | INFO |  * Debugger PIN: 760-872-756
+2025-06-08 13:10:56,665 | INFO |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-06-08 13:11:02,804 | INFO |  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\ace-college-chatbot - Copy\\app.py', reloading
+2025-06-08 13:11:02,874 | INFO |  * Restarting with stat
+2025-06-08 13:11:03,444 | WARNING |  * Debugger is active!
+2025-06-08 13:11:03,448 | INFO |  * Debugger PIN: 760-872-756
+2025-06-08 13:11:03,465 | INFO |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-06-08 13:12:56,176 | INFO |  * Restarting with stat
+2025-06-08 13:12:56,664 | WARNING |  * Debugger is active!
+2025-06-08 13:12:56,664 | INFO |  * Debugger PIN: 760-872-756
+2025-06-08 13:12:56,679 | INFO |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-06-08 13:13:21,527 | INFO | 127.0.0.1 - - [08/Jun/2025 13:13:21] "GET /login HTTP/1.1" 200 -
+2025-06-08 13:13:21,836 | INFO | 127.0.0.1 - - [08/Jun/2025 13:13:21] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:13:36,787 | INFO | User admin logged in with role admin
+2025-06-08 13:13:36,790 | INFO | 127.0.0.1 - - [08/Jun/2025 13:13:36] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-06-08 13:13:37,114 | INFO | 127.0.0.1 - - [08/Jun/2025 13:13:37] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-06-08 13:13:37,451 | INFO | 127.0.0.1 - - [08/Jun/2025 13:13:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:13:39,634 | INFO | 127.0.0.1 - - [08/Jun/2025 13:13:39] "GET /admin/manage HTTP/1.1" 200 -
+2025-06-08 13:13:39,885 | INFO | 127.0.0.1 - - [08/Jun/2025 13:13:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:14:03,101 | INFO | User admin logged out
+2025-06-08 13:14:03,105 | INFO | 127.0.0.1 - - [08/Jun/2025 13:14:03] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-06-08 13:14:03,132 | INFO | 127.0.0.1 - - [08/Jun/2025 13:14:03] "GET / HTTP/1.1" 200 -
+2025-06-08 13:14:03,361 | INFO | 127.0.0.1 - - [08/Jun/2025 13:14:03] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:14:05,985 | INFO | 127.0.0.1 - - [08/Jun/2025 13:14:05] "GET /login HTTP/1.1" 200 -
+2025-06-08 13:14:06,237 | INFO | 127.0.0.1 - - [08/Jun/2025 13:14:06] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:14:21,041 | ERROR | Failed login attempt for username: student1
+2025-06-08 13:14:21,043 | INFO | 127.0.0.1 - - [08/Jun/2025 13:14:21] "POST /login HTTP/1.1" 200 -
+2025-06-08 13:14:21,346 | INFO | 127.0.0.1 - - [08/Jun/2025 13:14:21] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:14:41,177 | INFO | User teacher1 logged in with role teacher
+2025-06-08 13:14:41,179 | INFO | 127.0.0.1 - - [08/Jun/2025 13:14:41] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-06-08 13:14:41,294 | INFO | 127.0.0.1 - - [08/Jun/2025 13:14:41] "[35m[1mGET /teacher/dashboard HTTP/1.1[0m" 500 -
+2025-06-08 13:14:41,452 | INFO | 127.0.0.1 - - [08/Jun/2025 13:14:41] "GET /teacher/dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-06-08 13:14:41,653 | INFO | 127.0.0.1 - - [08/Jun/2025 13:14:41] "GET /teacher/dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-06-08 13:14:41,994 | INFO | 127.0.0.1 - - [08/Jun/2025 13:14:41] "GET /teacher/dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-06-08 13:14:41,994 | INFO | 127.0.0.1 - - [08/Jun/2025 13:14:41] "GET /teacher/dashboard?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2025-06-08 13:15:20,707 | INFO | User student7 logged in with role student
+2025-06-08 13:15:20,710 | INFO | 127.0.0.1 - - [08/Jun/2025 13:15:20] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-06-08 13:15:20,784 | INFO | 127.0.0.1 - - [08/Jun/2025 13:15:20] "GET /student/dashboard HTTP/1.1" 200 -
+2025-06-08 13:15:21,107 | INFO | 127.0.0.1 - - [08/Jun/2025 13:15:21] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:15:39,268 | INFO | Payment of 500.0 processed for student ID 1
+2025-06-08 13:15:39,268 | INFO | 127.0.0.1 - - [08/Jun/2025 13:15:39] "POST /pay_fees HTTP/1.1" 200 -
+2025-06-08 13:15:39,594 | INFO | 127.0.0.1 - - [08/Jun/2025 13:15:39] "GET /student/dashboard HTTP/1.1" 200 -
+2025-06-08 13:15:39,617 | INFO | 127.0.0.1 - - [08/Jun/2025 13:15:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:16:18,451 | INFO | User student7 logged out
+2025-06-08 13:16:18,457 | INFO | 127.0.0.1 - - [08/Jun/2025 13:16:18] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-06-08 13:16:18,770 | INFO | 127.0.0.1 - - [08/Jun/2025 13:16:18] "GET / HTTP/1.1" 200 -
+2025-06-08 13:16:19,107 | INFO | 127.0.0.1 - - [08/Jun/2025 13:16:19] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:16:21,195 | INFO | 127.0.0.1 - - [08/Jun/2025 13:16:21] "GET /login HTTP/1.1" 200 -
+2025-06-08 13:16:21,506 | INFO | 127.0.0.1 - - [08/Jun/2025 13:16:21] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:16:36,775 | INFO | User teacher1 logged in with role teacher
+2025-06-08 13:16:36,778 | INFO | 127.0.0.1 - - [08/Jun/2025 13:16:36] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-06-08 13:16:36,865 | INFO | 127.0.0.1 - - [08/Jun/2025 13:16:36] "[35m[1mGET /teacher/dashboard HTTP/1.1[0m" 500 -
+2025-06-08 13:16:37,025 | INFO | 127.0.0.1 - - [08/Jun/2025 13:16:37] "GET /teacher/dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-06-08 13:16:37,211 | INFO | 127.0.0.1 - - [08/Jun/2025 13:16:37] "GET /teacher/dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-06-08 13:16:37,545 | INFO | 127.0.0.1 - - [08/Jun/2025 13:16:37] "GET /teacher/dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-06-08 13:16:37,545 | INFO | 127.0.0.1 - - [08/Jun/2025 13:16:37] "GET /teacher/dashboard?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2025-06-08 13:20:50,552 | INFO |  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\ace-college-chatbot - Copy\\auth.py', reloading
+2025-06-08 13:20:50,823 | INFO |  * Restarting with stat
+2025-06-08 13:20:51,773 | WARNING |  * Debugger is active!
+2025-06-08 13:20:51,779 | INFO |  * Debugger PIN: 760-872-756
+2025-06-08 13:20:51,796 | INFO |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-06-08 13:21:19,574 | INFO |  * Restarting with stat
+2025-06-08 13:21:20,054 | WARNING |  * Debugger is active!
+2025-06-08 13:21:20,064 | INFO |  * Debugger PIN: 760-872-756
+2025-06-08 13:21:20,077 | INFO |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-06-08 13:21:29,585 | INFO | 127.0.0.1 - - [08/Jun/2025 13:21:29] "GET /login HTTP/1.1" 200 -
+2025-06-08 13:21:29,920 | INFO | 127.0.0.1 - - [08/Jun/2025 13:21:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:21:51,095 | ERROR | Failed login attempt for username: student7
+2025-06-08 13:21:51,100 | INFO | 127.0.0.1 - - [08/Jun/2025 13:21:51] "POST /login HTTP/1.1" 200 -
+2025-06-08 13:21:51,395 | INFO | 127.0.0.1 - - [08/Jun/2025 13:21:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:22:09,831 | ERROR | Failed login attempt for username: admin
+2025-06-08 13:22:09,831 | INFO | 127.0.0.1 - - [08/Jun/2025 13:22:09] "POST /login HTTP/1.1" 200 -
+2025-06-08 13:22:09,850 | INFO | 127.0.0.1 - - [08/Jun/2025 13:22:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:22:20,415 | INFO |  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\ace-college-chatbot - Copy\\auth.py', reloading
+2025-06-08 13:22:20,510 | INFO |  * Restarting with stat
+2025-06-08 13:22:21,023 | WARNING |  * Debugger is active!
+2025-06-08 13:22:21,025 | INFO |  * Debugger PIN: 760-872-756
+2025-06-08 13:22:21,038 | INFO |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-06-08 13:22:31,258 | INFO |  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\ace-college-chatbot - Copy\\auth.py', reloading
+2025-06-08 13:22:31,315 | INFO |  * Restarting with stat
+2025-06-08 13:22:31,824 | WARNING |  * Debugger is active!
+2025-06-08 13:22:31,824 | INFO |  * Debugger PIN: 760-872-756
+2025-06-08 13:22:31,845 | INFO |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-06-08 13:22:50,279 | ERROR | Failed login attempt for username: admin
+2025-06-08 13:22:50,290 | INFO | 127.0.0.1 - - [08/Jun/2025 13:22:50] "POST /login HTTP/1.1" 200 -
+2025-06-08 13:22:50,375 | INFO | 127.0.0.1 - - [08/Jun/2025 13:22:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:23:12,943 | ERROR | Failed login attempt for username: teacher1
+2025-06-08 13:23:12,946 | INFO | 127.0.0.1 - - [08/Jun/2025 13:23:12] "POST /login HTTP/1.1" 200 -
+2025-06-08 13:23:13,242 | INFO | 127.0.0.1 - - [08/Jun/2025 13:23:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:23:25,086 | ERROR | Failed login attempt for username: admin
+2025-06-08 13:23:25,092 | INFO | 127.0.0.1 - - [08/Jun/2025 13:23:25] "POST /login HTTP/1.1" 200 -
+2025-06-08 13:23:25,115 | INFO | 127.0.0.1 - - [08/Jun/2025 13:23:25] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:23:28,345 | INFO | 127.0.0.1 - - [08/Jun/2025 13:23:28] "GET / HTTP/1.1" 200 -
+2025-06-08 13:23:28,631 | INFO | 127.0.0.1 - - [08/Jun/2025 13:23:28] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:23:29,010 | INFO | 127.0.0.1 - - [08/Jun/2025 13:23:29] "GET /api/chat-history HTTP/1.1" 200 -
+2025-06-08 13:25:30,828 | INFO |  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\ace-college-chatbot - Copy\\auth.py', reloading
+2025-06-08 13:25:30,943 | INFO |  * Restarting with stat
+2025-06-08 13:25:31,706 | WARNING |  * Debugger is active!
+2025-06-08 13:25:31,706 | INFO |  * Debugger PIN: 760-872-756
+2025-06-08 13:25:31,724 | INFO |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-06-08 13:25:46,364 | INFO |  * Restarting with stat
+2025-06-08 13:25:46,884 | WARNING |  * Debugger is active!
+2025-06-08 13:25:46,886 | INFO |  * Debugger PIN: 760-872-756
+2025-06-08 13:25:46,905 | INFO |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-06-08 13:25:53,720 | INFO | 127.0.0.1 - - [08/Jun/2025 13:25:53] "GET /login HTTP/1.1" 200 -
+2025-06-08 13:25:54,004 | INFO | 127.0.0.1 - - [08/Jun/2025 13:25:54] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:26:09,274 | ERROR | Failed login attempt for username: admin
+2025-06-08 13:26:09,274 | INFO | 127.0.0.1 - - [08/Jun/2025 13:26:09] "POST /login HTTP/1.1" 200 -
+2025-06-08 13:26:09,569 | INFO | 127.0.0.1 - - [08/Jun/2025 13:26:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:26:26,688 | ERROR | Failed login attempt for username: teacher1
+2025-06-08 13:26:26,690 | INFO | 127.0.0.1 - - [08/Jun/2025 13:26:26] "POST /login HTTP/1.1" 200 -
+2025-06-08 13:26:26,714 | INFO | 127.0.0.1 - - [08/Jun/2025 13:26:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:26:40,321 | ERROR | Failed login attempt for username: student7
+2025-06-08 13:26:40,324 | INFO | 127.0.0.1 - - [08/Jun/2025 13:26:40] "POST /login HTTP/1.1" 200 -
+2025-06-08 13:26:40,624 | INFO | 127.0.0.1 - - [08/Jun/2025 13:26:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:26:43,384 | INFO | 127.0.0.1 - - [08/Jun/2025 13:26:43] "GET / HTTP/1.1" 200 -
+2025-06-08 13:26:43,589 | INFO | 127.0.0.1 - - [08/Jun/2025 13:26:43] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:26:43,640 | INFO | 127.0.0.1 - - [08/Jun/2025 13:26:43] "GET /api/chat-history HTTP/1.1" 200 -
+2025-06-08 13:27:13,558 | INFO | 127.0.0.1 - - [08/Jun/2025 13:27:13] "GET /login HTTP/1.1" 200 -
+2025-06-08 13:27:13,817 | INFO | 127.0.0.1 - - [08/Jun/2025 13:27:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:27:31,445 | ERROR | Failed login attempt for username: student7
+2025-06-08 13:27:31,449 | INFO | 127.0.0.1 - - [08/Jun/2025 13:27:31] "POST /login HTTP/1.1" 200 -
+2025-06-08 13:27:31,751 | INFO | 127.0.0.1 - - [08/Jun/2025 13:27:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:30:09,168 | INFO |  * Restarting with stat
+2025-06-08 13:30:09,715 | WARNING |  * Debugger is active!
+2025-06-08 13:30:09,718 | INFO |  * Debugger PIN: 760-872-756
+2025-06-08 13:30:09,733 | INFO |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-06-08 13:30:41,178 | INFO | 127.0.0.1 - - [08/Jun/2025 13:30:41] "GET /login HTTP/1.1" 200 -
+2025-06-08 13:30:41,468 | INFO | 127.0.0.1 - - [08/Jun/2025 13:30:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:31:07,836 | ERROR | Failed login attempt for username: admin
+2025-06-08 13:31:07,836 | INFO | 127.0.0.1 - - [08/Jun/2025 13:31:07] "POST /login HTTP/1.1" 200 -
+2025-06-08 13:31:08,129 | INFO | 127.0.0.1 - - [08/Jun/2025 13:31:08] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:31:20,413 | ERROR | Failed login attempt for username: student7
+2025-06-08 13:31:20,415 | INFO | 127.0.0.1 - - [08/Jun/2025 13:31:20] "POST /login HTTP/1.1" 200 -
+2025-06-08 13:31:20,437 | INFO | 127.0.0.1 - - [08/Jun/2025 13:31:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:31:33,962 | ERROR | Failed login attempt for username: teacher1
+2025-06-08 13:31:33,965 | INFO | 127.0.0.1 - - [08/Jun/2025 13:31:33] "POST /login HTTP/1.1" 200 -
+2025-06-08 13:31:34,261 | INFO | 127.0.0.1 - - [08/Jun/2025 13:31:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:31:37,444 | INFO | 127.0.0.1 - - [08/Jun/2025 13:31:37] "GET / HTTP/1.1" 200 -
+2025-06-08 13:31:37,663 | INFO | 127.0.0.1 - - [08/Jun/2025 13:31:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:31:37,726 | INFO | 127.0.0.1 - - [08/Jun/2025 13:31:37] "GET /api/chat-history HTTP/1.1" 200 -
+2025-06-08 13:38:06,845 | INFO |  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\ace-college-chatbot - Copy\\auth.py', reloading
+2025-06-08 13:38:07,169 | INFO |  * Restarting with stat
+2025-06-08 13:38:07,962 | WARNING |  * Debugger is active!
+2025-06-08 13:38:07,975 | INFO |  * Debugger PIN: 760-872-756
+2025-06-08 13:38:07,993 | INFO |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-06-08 13:38:49,331 | INFO |  * Restarting with stat
+2025-06-08 13:38:49,833 | WARNING |  * Debugger is active!
+2025-06-08 13:38:49,833 | INFO |  * Debugger PIN: 760-872-756
+2025-06-08 13:38:49,851 | INFO |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-06-08 13:39:51,907 | INFO | 127.0.0.1 - - [08/Jun/2025 13:39:51] "GET / HTTP/1.1" 200 -
+2025-06-08 13:39:52,219 | INFO | 127.0.0.1 - - [08/Jun/2025 13:39:52] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:39:52,388 | INFO | 127.0.0.1 - - [08/Jun/2025 13:39:52] "GET /api/chat-history HTTP/1.1" 200 -
+2025-06-08 13:40:00,808 | INFO | 127.0.0.1 - - [08/Jun/2025 13:40:00] "GET /teacher/dashboard HTTP/1.1" 200 -
+2025-06-08 13:40:00,920 | INFO | 127.0.0.1 - - [08/Jun/2025 13:40:00] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:40:05,967 | INFO | 127.0.0.1 - - [08/Jun/2025 13:40:05] "GET /teacher/update/1 HTTP/1.1" 200 -
+2025-06-08 13:40:06,230 | INFO | 127.0.0.1 - - [08/Jun/2025 13:40:06] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:40:12,183 | INFO | 127.0.0.1 - - [08/Jun/2025 13:40:12] "[35m[1mPOST /teacher/update/1 HTTP/1.1[0m" 500 -
+2025-06-08 13:40:12,206 | INFO | 127.0.0.1 - - [08/Jun/2025 13:40:12] "GET /teacher/update/1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-06-08 13:40:12,413 | INFO | 127.0.0.1 - - [08/Jun/2025 13:40:12] "GET /teacher/update/1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-06-08 13:40:12,757 | INFO | 127.0.0.1 - - [08/Jun/2025 13:40:12] "GET /teacher/update/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-06-08 13:40:12,757 | INFO | 127.0.0.1 - - [08/Jun/2025 13:40:12] "GET /teacher/update/1?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2025-06-08 13:40:13,001 | INFO | 127.0.0.1 - - [08/Jun/2025 13:40:13] "GET /teacher/update/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-06-08 13:40:17,391 | INFO | 127.0.0.1 - - [08/Jun/2025 13:40:17] "GET /teacher/dashboard HTTP/1.1" 200 -
+2025-06-08 13:40:17,420 | INFO | 127.0.0.1 - - [08/Jun/2025 13:40:17] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:40:20,993 | INFO | User teacher1 logged out
+2025-06-08 13:40:20,993 | INFO | 127.0.0.1 - - [08/Jun/2025 13:40:20] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-06-08 13:40:21,231 | INFO | 127.0.0.1 - - [08/Jun/2025 13:40:21] "GET / HTTP/1.1" 200 -
+2025-06-08 13:40:21,261 | INFO | 127.0.0.1 - - [08/Jun/2025 13:40:21] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:40:23,763 | INFO | 127.0.0.1 - - [08/Jun/2025 13:40:23] "GET /login HTTP/1.1" 200 -
+2025-06-08 13:40:23,933 | INFO | 127.0.0.1 - - [08/Jun/2025 13:40:23] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:40:48,278 | ERROR | Failed login attempt for username: adaaa
+2025-06-08 13:40:48,282 | INFO | 127.0.0.1 - - [08/Jun/2025 13:40:48] "POST /login HTTP/1.1" 200 -
+2025-06-08 13:40:48,573 | INFO | 127.0.0.1 - - [08/Jun/2025 13:40:48] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:41:29,142 | INFO | User admin logged in with role admin
+2025-06-08 13:41:29,142 | INFO | 127.0.0.1 - - [08/Jun/2025 13:41:29] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-06-08 13:41:29,158 | INFO | 127.0.0.1 - - [08/Jun/2025 13:41:29] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-06-08 13:41:29,404 | INFO | 127.0.0.1 - - [08/Jun/2025 13:41:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:41:33,991 | INFO | 127.0.0.1 - - [08/Jun/2025 13:41:33] "GET /admin/manage HTTP/1.1" 200 -
+2025-06-08 13:41:34,140 | INFO | 127.0.0.1 - - [08/Jun/2025 13:41:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:42:29,392 | INFO | Admin created user: upendra with role student
+2025-06-08 13:42:29,396 | INFO | 127.0.0.1 - - [08/Jun/2025 13:42:29] "[32mPOST /admin/manage HTTP/1.1[0m" 302 -
+2025-06-08 13:42:29,667 | INFO | 127.0.0.1 - - [08/Jun/2025 13:42:29] "GET /admin/manage HTTP/1.1" 200 -
+2025-06-08 13:42:29,995 | INFO | 127.0.0.1 - - [08/Jun/2025 13:42:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:42:35,929 | INFO | 127.0.0.1 - - [08/Jun/2025 13:42:35] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-06-08 13:42:36,228 | INFO | 127.0.0.1 - - [08/Jun/2025 13:42:36] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:42:41,956 | INFO | User admin logged out
+2025-06-08 13:42:41,957 | INFO | 127.0.0.1 - - [08/Jun/2025 13:42:41] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-06-08 13:42:42,185 | INFO | 127.0.0.1 - - [08/Jun/2025 13:42:42] "GET / HTTP/1.1" 200 -
+2025-06-08 13:42:42,219 | INFO | 127.0.0.1 - - [08/Jun/2025 13:42:42] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:42:44,577 | INFO | 127.0.0.1 - - [08/Jun/2025 13:42:44] "GET /login HTTP/1.1" 200 -
+2025-06-08 13:42:44,823 | INFO | 127.0.0.1 - - [08/Jun/2025 13:42:44] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 13:43:06,834 | INFO | User UPENDRA logged in with role student
+2025-06-08 13:43:06,840 | INFO | 127.0.0.1 - - [08/Jun/2025 13:43:06] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-06-08 13:43:07,157 | INFO | 127.0.0.1 - - [08/Jun/2025 13:43:07] "GET /student/dashboard HTTP/1.1" 200 -
+2025-06-08 13:43:07,491 | INFO | 127.0.0.1 - - [08/Jun/2025 13:43:07] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 14:19:36,557 | INFO | User upendra logged out
+2025-06-08 14:19:36,573 | INFO | 127.0.0.1 - - [08/Jun/2025 14:19:36] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-06-08 14:19:36,775 | INFO | 127.0.0.1 - - [08/Jun/2025 14:19:36] "GET / HTTP/1.1" 200 -
+2025-06-08 14:19:37,161 | INFO | 127.0.0.1 - - [08/Jun/2025 14:19:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 14:19:40,834 | INFO | 127.0.0.1 - - [08/Jun/2025 14:19:40] "GET /login HTTP/1.1" 200 -
+2025-06-08 14:19:41,077 | INFO | 127.0.0.1 - - [08/Jun/2025 14:19:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 14:20:08,497 | INFO |  * Restarting with stat
+2025-06-08 14:20:09,026 | WARNING |  * Debugger is active!
+2025-06-08 14:20:09,030 | INFO |  * Debugger PIN: 760-872-756
+2025-06-08 14:20:09,049 | INFO |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-06-08 14:20:32,182 | INFO | 127.0.0.1 - - [08/Jun/2025 14:20:32] "GET /login HTTP/1.1" 200 -
+2025-06-08 14:20:32,560 | INFO | 127.0.0.1 - - [08/Jun/2025 14:20:32] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 14:26:23,642 | INFO |  * Restarting with stat
+2025-06-08 14:26:24,185 | WARNING |  * Debugger is active!
+2025-06-08 14:26:24,190 | INFO |  * Debugger PIN: 760-872-756
+2025-06-08 14:26:24,207 | INFO |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-06-08 14:26:46,125 | INFO | 127.0.0.1 - - [08/Jun/2025 14:26:46] "GET / HTTP/1.1" 200 -
+2025-06-08 14:26:46,516 | INFO | 127.0.0.1 - - [08/Jun/2025 14:26:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 14:26:53,293 | INFO | 127.0.0.1 - - [08/Jun/2025 14:26:53] "POST /chat HTTP/1.1" 200 -
+2025-06-08 14:26:58,958 | INFO | 127.0.0.1 - - [08/Jun/2025 14:26:58] "GET /login HTTP/1.1" 200 -
+2025-06-08 14:26:59,192 | INFO | 127.0.0.1 - - [08/Jun/2025 14:26:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 14:31:12,376 | INFO |  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\ace-college-chatbot - Copy\\app.py', reloading
+2025-06-08 14:31:12,496 | INFO |  * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 760-872-756
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\ace-college-chatbot - Copy\\auth.py', reloading
+2025-06-08 14:31:31,036 | INFO |  * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 760-872-756
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 760-872-756
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2025 14:32:17] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2025 14:32:18] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2025 14:32:18] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2025 14:32:18] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2025 14:32:19] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2025 14:32:19] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2025 14:32:19] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\ace-college-chatbot - Copy\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+2025-06-08 14:32:49,877 | WARNING |  * Debugger is active!
+2025-06-08 14:32:49,883 | INFO |  * Debugger PIN: 760-872-756
+2025-06-08 14:32:49,901 | INFO |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-06-08 14:32:55,874 | INFO | 127.0.0.1 - - [08/Jun/2025 14:32:55] "GET / HTTP/1.1" 200 -
+2025-06-08 14:32:56,100 | INFO | 127.0.0.1 - - [08/Jun/2025 14:32:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 14:33:00,115 | INFO | 127.0.0.1 - - [08/Jun/2025 14:33:00] "POST /chat HTTP/1.1" 200 -
+2025-06-08 14:33:03,863 | INFO | 127.0.0.1 - - [08/Jun/2025 14:33:03] "GET /login HTTP/1.1" 200 -
+2025-06-08 14:33:36,123 | INFO | User upendra logged in with role student
+2025-06-08 14:33:36,123 | INFO | 127.0.0.1 - - [08/Jun/2025 14:33:36] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-06-08 14:33:36,184 | INFO | 127.0.0.1 - - [08/Jun/2025 14:33:36] "GET /student/dashboard HTTP/1.1" 200 -
+2025-06-08 14:33:36,542 | INFO | 127.0.0.1 - - [08/Jun/2025 14:33:36] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 14:33:40,329 | INFO | User upendra logged out
+2025-06-08 14:33:40,330 | INFO | 127.0.0.1 - - [08/Jun/2025 14:33:40] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-06-08 14:33:40,639 | INFO | 127.0.0.1 - - [08/Jun/2025 14:33:40] "GET / HTTP/1.1" 200 -
+2025-06-08 14:33:40,674 | INFO | 127.0.0.1 - - [08/Jun/2025 14:33:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 14:33:55,270 | INFO | 127.0.0.1 - - [08/Jun/2025 14:33:55] "POST /chat HTTP/1.1" 200 -
+2025-06-08 14:34:12,389 | INFO | 127.0.0.1 - - [08/Jun/2025 14:34:12] "POST /chat HTTP/1.1" 200 -
+2025-06-08 14:34:30,316 | INFO | 127.0.0.1 - - [08/Jun/2025 14:34:30] "POST /chat HTTP/1.1" 200 -
+2025-06-08 14:34:56,171 | INFO | 127.0.0.1 - - [08/Jun/2025 14:34:56] "POST /chat HTTP/1.1" 200 -
+2025-06-08 14:35:37,915 | INFO | 127.0.0.1 - - [08/Jun/2025 14:35:37] "POST /chat HTTP/1.1" 200 -
+2025-06-08 14:35:53,243 | INFO | 127.0.0.1 - - [08/Jun/2025 14:35:53] "POST /chat HTTP/1.1" 200 -
+2025-06-08 14:36:40,822 | INFO | 127.0.0.1 - - [08/Jun/2025 14:36:40] "POST /chat HTTP/1.1" 200 -
+2025-06-08 14:36:46,877 | INFO | 127.0.0.1 - - [08/Jun/2025 14:36:46] "POST /chat HTTP/1.1" 200 -
+2025-06-08 14:37:16,682 | INFO | 127.0.0.1 - - [08/Jun/2025 14:37:16] "POST /chat HTTP/1.1" 200 -
+2025-06-08 14:37:33,007 | INFO | 127.0.0.1 - - [08/Jun/2025 14:37:33] "POST /chat HTTP/1.1" 200 -
+2025-06-08 14:37:38,762 | INFO | 127.0.0.1 - - [08/Jun/2025 14:37:38] "POST /chat HTTP/1.1" 200 -
+2025-06-08 14:37:45,982 | INFO | 127.0.0.1 - - [08/Jun/2025 14:37:45] "POST /chat HTTP/1.1" 200 -
+2025-06-08 14:37:50,084 | INFO | 127.0.0.1 - - [08/Jun/2025 14:37:50] "GET /login HTTP/1.1" 200 -
+2025-06-08 14:38:18,716 | INFO | User teacher1 logged in with role teacher
+2025-06-08 14:38:18,720 | INFO | 127.0.0.1 - - [08/Jun/2025 14:38:18] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-06-08 14:38:19,064 | INFO | 127.0.0.1 - - [08/Jun/2025 14:38:19] "GET /teacher/dashboard HTTP/1.1" 200 -
+2025-06-08 14:38:19,423 | INFO | 127.0.0.1 - - [08/Jun/2025 14:38:19] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 14:38:29,993 | INFO | User teacher1 logged out
+2025-06-08 14:38:29,993 | INFO | 127.0.0.1 - - [08/Jun/2025 14:38:29] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-06-08 14:38:30,307 | INFO | 127.0.0.1 - - [08/Jun/2025 14:38:30] "GET / HTTP/1.1" 200 -
+2025-06-08 14:38:30,358 | INFO | 127.0.0.1 - - [08/Jun/2025 14:38:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 14:39:03,865 | INFO | 127.0.0.1 - - [08/Jun/2025 14:39:03] "POST /chat HTTP/1.1" 200 -
+2025-06-08 14:39:21,117 | INFO | 127.0.0.1 - - [08/Jun/2025 14:39:21] "POST /chat HTTP/1.1" 200 -
+2025-06-08 14:39:33,160 | INFO | 127.0.0.1 - - [08/Jun/2025 14:39:33] "POST /chat HTTP/1.1" 200 -
+2025-06-08 14:39:47,543 | INFO | 127.0.0.1 - - [08/Jun/2025 14:39:47] "GET /login HTTP/1.1" 200 -
+2025-06-08 14:39:52,093 | ERROR | Failed login attempt for username: admin
+2025-06-08 14:39:52,098 | INFO | 127.0.0.1 - - [08/Jun/2025 14:39:52] "POST /login HTTP/1.1" 200 -
+2025-06-08 14:40:01,944 | INFO | User admin logged in with role admin
+2025-06-08 14:40:01,948 | INFO | 127.0.0.1 - - [08/Jun/2025 14:40:01] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-06-08 14:40:02,267 | INFO | 127.0.0.1 - - [08/Jun/2025 14:40:02] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-06-08 14:40:02,596 | INFO | 127.0.0.1 - - [08/Jun/2025 14:40:02] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 14:40:11,100 | INFO | 127.0.0.1 - - [08/Jun/2025 14:40:11] "GET /admin/manage HTTP/1.1" 200 -
+2025-06-08 14:40:11,379 | INFO | 127.0.0.1 - - [08/Jun/2025 14:40:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 14:42:53,990 | INFO |  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\ace-college-chatbot - Copy\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 760-872-756
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2025 14:43:05] "[32mGET /admin/manage HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2025 14:43:05] "GET /login HTTP/1.1" 200 -
+INFO:app:Form input - username: admin, password length: 10
+INFO:app:Login failed: Invalid username or password
+INFO:werkzeug:127.0.0.1 - - [08/Jun/2025 14:43:24] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\ace-college-chatbot - Copy\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+2025-06-08 14:43:32,903 | WARNING |  * Debugger is active!
+2025-06-08 14:43:32,919 | INFO |  * Debugger PIN: 760-872-756
+2025-06-08 14:43:32,938 | INFO |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-06-08 14:43:55,313 | ERROR | Failed login attempt for username: admin
+2025-06-08 14:43:55,324 | INFO | 127.0.0.1 - - [08/Jun/2025 14:43:55] "POST /login HTTP/1.1" 200 -
+2025-06-08 14:44:41,340 | INFO |  * Restarting with stat
+2025-06-08 14:44:41,889 | WARNING |  * Debugger is active!
+2025-06-08 14:44:41,895 | INFO |  * Debugger PIN: 760-872-756
+2025-06-08 14:44:41,915 | INFO |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-06-08 14:45:14,750 | INFO | 127.0.0.1 - - [08/Jun/2025 14:45:14] "GET / HTTP/1.1" 200 -
+2025-06-08 14:45:15,198 | INFO | 127.0.0.1 - - [08/Jun/2025 14:45:15] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 14:45:17,680 | INFO | 127.0.0.1 - - [08/Jun/2025 14:45:17] "GET /login HTTP/1.1" 200 -
+2025-06-08 14:45:25,492 | INFO | User admin logged in with role admin
+2025-06-08 14:45:25,492 | INFO | 127.0.0.1 - - [08/Jun/2025 14:45:25] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-06-08 14:45:25,794 | INFO | 127.0.0.1 - - [08/Jun/2025 14:45:25] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-06-08 14:45:26,145 | INFO | 127.0.0.1 - - [08/Jun/2025 14:45:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 14:45:27,975 | INFO | 127.0.0.1 - - [08/Jun/2025 14:45:27] "GET /admin/manage HTTP/1.1" 200 -
+2025-06-08 14:46:11,676 | INFO | Admin created user: Basheer with role student
+2025-06-08 14:46:11,676 | INFO | 127.0.0.1 - - [08/Jun/2025 14:46:11] "[32mPOST /admin/manage HTTP/1.1[0m" 302 -
+2025-06-08 14:46:11,931 | INFO | 127.0.0.1 - - [08/Jun/2025 14:46:11] "GET /admin/manage HTTP/1.1" 200 -
+2025-06-08 14:47:01,808 | INFO | 127.0.0.1 - - [08/Jun/2025 14:47:01] "GET /admin/manage HTTP/1.1" 200 -
+2025-06-08 14:47:10,257 | INFO | User admin logged out
+2025-06-08 14:47:10,257 | INFO | 127.0.0.1 - - [08/Jun/2025 14:47:10] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-06-08 14:47:10,263 | INFO | 127.0.0.1 - - [08/Jun/2025 14:47:10] "GET / HTTP/1.1" 200 -
+2025-06-08 14:47:10,577 | INFO | 127.0.0.1 - - [08/Jun/2025 14:47:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 14:47:13,159 | INFO | 127.0.0.1 - - [08/Jun/2025 14:47:13] "GET /login HTTP/1.1" 200 -
+2025-06-08 14:47:33,150 | ERROR | Failed login attempt for username: Basheer
+2025-06-08 14:47:33,157 | INFO | 127.0.0.1 - - [08/Jun/2025 14:47:33] "POST /login HTTP/1.1" 200 -
+2025-06-08 14:47:36,314 | ERROR | Failed login attempt for username: admin
+2025-06-08 14:47:36,314 | INFO | 127.0.0.1 - - [08/Jun/2025 14:47:36] "POST /login HTTP/1.1" 200 -
+2025-06-08 14:48:07,900 | INFO | User admin logged in with role admin
+2025-06-08 14:48:07,900 | INFO | 127.0.0.1 - - [08/Jun/2025 14:48:07] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-06-08 14:48:08,236 | INFO | 127.0.0.1 - - [08/Jun/2025 14:48:08] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-06-08 14:48:08,565 | INFO | 127.0.0.1 - - [08/Jun/2025 14:48:08] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 14:48:13,280 | INFO | User admin logged out
+2025-06-08 14:48:13,282 | INFO | 127.0.0.1 - - [08/Jun/2025 14:48:13] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-06-08 14:48:13,585 | INFO | 127.0.0.1 - - [08/Jun/2025 14:48:13] "GET / HTTP/1.1" 200 -
+2025-06-08 14:48:13,933 | INFO | 127.0.0.1 - - [08/Jun/2025 14:48:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-08 14:48:17,340 | INFO | 127.0.0.1 - - [08/Jun/2025 14:48:17] "POST /chat HTTP/1.1" 200 -
+2025-06-08 14:48:37,112 | INFO | 127.0.0.1 - - [08/Jun/2025 14:48:37] "POST /chat HTTP/1.1" 200 -
+2025-06-10 23:12:57,210 | INFO |  * Restarting with stat
+2025-06-10 23:12:57,727 | WARNING |  * Debugger is active!
+2025-06-10 23:12:57,732 | INFO |  * Debugger PIN: 760-872-756
+2025-06-10 23:12:57,748 | INFO |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-06-10 23:13:11,651 | INFO | 127.0.0.1 - - [10/Jun/2025 23:13:11] "GET / HTTP/1.1" 200 -
+2025-06-10 23:13:11,924 | INFO | 127.0.0.1 - - [10/Jun/2025 23:13:11] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-06-10 23:13:12,009 | INFO | 127.0.0.1 - - [10/Jun/2025 23:13:12] "[33mGET /static/favicon.ico HTTP/1.1[0m" 404 -
+2025-06-10 23:13:19,552 | INFO | 127.0.0.1 - - [10/Jun/2025 23:13:19] "POST /chat HTTP/1.1" 200 -
+2025-06-10 23:13:27,006 | INFO | 127.0.0.1 - - [10/Jun/2025 23:13:27] "POST /chat HTTP/1.1" 200 -
+2025-06-10 23:13:33,517 | INFO | 127.0.0.1 - - [10/Jun/2025 23:13:33] "POST /chat HTTP/1.1" 200 -
+2025-06-10 23:13:41,810 | INFO | 127.0.0.1 - - [10/Jun/2025 23:13:41] "POST /chat HTTP/1.1" 200 -
+2025-06-10 23:13:48,383 | INFO | 127.0.0.1 - - [10/Jun/2025 23:13:48] "POST /chat HTTP/1.1" 200 -
+2025-06-10 23:13:54,907 | INFO | 127.0.0.1 - - [10/Jun/2025 23:13:54] "GET /login HTTP/1.1" 200 -
+2025-06-10 23:13:54,941 | INFO | 127.0.0.1 - - [10/Jun/2025 23:13:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-10 23:14:07,541 | ERROR | Failed login attempt for username: admin
+2025-06-10 23:14:07,541 | INFO | 127.0.0.1 - - [10/Jun/2025 23:14:07] "POST /login HTTP/1.1" 200 -
+2025-06-10 23:14:17,260 | ERROR | Failed login attempt for username: admin
+2025-06-10 23:14:17,265 | INFO | 127.0.0.1 - - [10/Jun/2025 23:14:17] "POST /login HTTP/1.1" 200 -
+2025-06-10 23:14:19,474 | ERROR | Failed login attempt for username: admin
+2025-06-10 23:14:19,483 | INFO | 127.0.0.1 - - [10/Jun/2025 23:14:19] "POST /login HTTP/1.1" 200 -
+2025-06-10 23:14:20,845 | ERROR | Failed login attempt for username: admin
+2025-06-10 23:14:20,850 | INFO | 127.0.0.1 - - [10/Jun/2025 23:14:20] "POST /login HTTP/1.1" 200 -
+2025-06-10 23:14:37,391 | INFO | User admin logged in with role admin
+2025-06-10 23:14:37,406 | INFO | 127.0.0.1 - - [10/Jun/2025 23:14:37] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-06-10 23:14:37,474 | INFO | 127.0.0.1 - - [10/Jun/2025 23:14:37] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-06-10 23:14:37,506 | INFO | 127.0.0.1 - - [10/Jun/2025 23:14:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-10 23:14:49,749 | INFO | User admin logged out
+2025-06-10 23:14:49,749 | INFO | 127.0.0.1 - - [10/Jun/2025 23:14:49] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-06-10 23:14:49,758 | INFO | 127.0.0.1 - - [10/Jun/2025 23:14:49] "GET / HTTP/1.1" 200 -
+2025-06-10 23:14:49,778 | INFO | 127.0.0.1 - - [10/Jun/2025 23:14:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 13:55:11,581 | INFO |  * Restarting with stat
+2025-06-11 13:55:13,051 | WARNING |  * Debugger is active!
+2025-06-11 13:55:13,062 | INFO |  * Debugger PIN: 760-872-756
+2025-06-11 13:55:13,111 | INFO |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-06-11 13:55:22,997 | INFO | 127.0.0.1 - - [11/Jun/2025 13:55:22] "GET / HTTP/1.1" 200 -
+2025-06-11 13:55:23,233 | INFO | 127.0.0.1 - - [11/Jun/2025 13:55:23] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 13:55:23,303 | INFO | 127.0.0.1 - - [11/Jun/2025 13:55:23] "[33mGET /static/favicon.ico HTTP/1.1[0m" 404 -
+2025-06-11 13:55:28,399 | INFO | 127.0.0.1 - - [11/Jun/2025 13:55:28] "POST /chat HTTP/1.1" 200 -
+2025-06-11 13:56:04,228 | INFO | 127.0.0.1 - - [11/Jun/2025 13:56:04] "POST /chat HTTP/1.1" 200 -
+2025-06-11 13:56:22,700 | INFO | 127.0.0.1 - - [11/Jun/2025 13:56:22] "POST /chat HTTP/1.1" 200 -
+2025-06-11 13:56:29,552 | INFO | 127.0.0.1 - - [11/Jun/2025 13:56:29] "POST /chat HTTP/1.1" 200 -
+2025-06-11 13:56:48,040 | INFO | 127.0.0.1 - - [11/Jun/2025 13:56:48] "POST /chat HTTP/1.1" 200 -
+2025-06-11 13:56:56,469 | INFO | 127.0.0.1 - - [11/Jun/2025 13:56:56] "GET /login HTTP/1.1" 200 -
+2025-06-11 13:56:56,522 | INFO | 127.0.0.1 - - [11/Jun/2025 13:56:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-11 13:57:08,176 | INFO | User admin logged in with role admin
+2025-06-11 13:57:08,185 | INFO | 127.0.0.1 - - [11/Jun/2025 13:57:08] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-06-11 13:57:08,234 | INFO | 127.0.0.1 - - [11/Jun/2025 13:57:08] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-06-11 13:57:08,279 | INFO | 127.0.0.1 - - [11/Jun/2025 13:57:08] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 13:57:12,200 | INFO | 127.0.0.1 - - [11/Jun/2025 13:57:12] "GET /admin/manage HTTP/1.1" 200 -
+2025-06-11 13:57:54,367 | INFO | Admin created user: uppi with role student
+2025-06-11 13:57:54,383 | INFO | 127.0.0.1 - - [11/Jun/2025 13:57:54] "[32mPOST /admin/manage HTTP/1.1[0m" 302 -
+2025-06-11 13:57:54,390 | INFO | 127.0.0.1 - - [11/Jun/2025 13:57:54] "GET /admin/manage HTTP/1.1" 200 -
+2025-06-11 13:58:02,696 | INFO | 127.0.0.1 - - [11/Jun/2025 13:58:02] "GET /admin/manage HTTP/1.1" 200 -
+2025-06-11 13:58:07,066 | INFO | User admin logged out
+2025-06-11 13:58:07,066 | INFO | 127.0.0.1 - - [11/Jun/2025 13:58:07] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-06-11 13:58:07,073 | INFO | 127.0.0.1 - - [11/Jun/2025 13:58:07] "GET / HTTP/1.1" 200 -
+2025-06-11 13:58:07,090 | INFO | 127.0.0.1 - - [11/Jun/2025 13:58:07] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 13:58:09,092 | INFO | 127.0.0.1 - - [11/Jun/2025 13:58:09] "GET /login HTTP/1.1" 200 -
+2025-06-11 13:58:37,866 | INFO | User uppi logged in with role student
+2025-06-11 13:58:37,867 | INFO | 127.0.0.1 - - [11/Jun/2025 13:58:37] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-06-11 13:58:37,983 | INFO | 127.0.0.1 - - [11/Jun/2025 13:58:37] "GET /student/dashboard HTTP/1.1" 200 -
+2025-06-11 13:58:38,016 | INFO | 127.0.0.1 - - [11/Jun/2025 13:58:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 13:58:53,416 | INFO | User uppi logged out
+2025-06-11 13:58:53,418 | INFO | 127.0.0.1 - - [11/Jun/2025 13:58:53] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-06-11 13:58:53,427 | INFO | 127.0.0.1 - - [11/Jun/2025 13:58:53] "GET / HTTP/1.1" 200 -
+2025-06-11 13:58:53,447 | INFO | 127.0.0.1 - - [11/Jun/2025 13:58:53] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 13:58:55,544 | INFO | 127.0.0.1 - - [11/Jun/2025 13:58:55] "GET /login HTTP/1.1" 200 -
+2025-06-11 13:59:04,812 | ERROR | Failed login attempt for username: teacher1
+2025-06-11 13:59:04,821 | INFO | 127.0.0.1 - - [11/Jun/2025 13:59:04] "POST /login HTTP/1.1" 200 -
+2025-06-11 13:59:24,550 | INFO | User teacher1 logged in with role teacher
+2025-06-11 13:59:24,550 | INFO | 127.0.0.1 - - [11/Jun/2025 13:59:24] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-06-11 13:59:24,634 | INFO | 127.0.0.1 - - [11/Jun/2025 13:59:24] "GET /teacher/dashboard HTTP/1.1" 200 -
+2025-06-11 13:59:24,657 | INFO | 127.0.0.1 - - [11/Jun/2025 13:59:24] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 13:59:35,300 | INFO | 127.0.0.1 - - [11/Jun/2025 13:59:35] "GET /teacher/update/2 HTTP/1.1" 200 -
+2025-06-11 13:59:35,324 | INFO | 127.0.0.1 - - [11/Jun/2025 13:59:35] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 13:59:56,134 | INFO | 127.0.0.1 - - [11/Jun/2025 13:59:56] "[35m[1mPOST /teacher/update/2 HTTP/1.1[0m" 500 -
+2025-06-11 13:59:56,184 | INFO | 127.0.0.1 - - [11/Jun/2025 13:59:56] "GET /teacher/update/2?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-06-11 13:59:56,194 | INFO | 127.0.0.1 - - [11/Jun/2025 13:59:56] "GET /teacher/update/2?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-06-11 13:59:56,230 | INFO | 127.0.0.1 - - [11/Jun/2025 13:59:56] "GET /teacher/update/2?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2025-06-11 13:59:56,233 | INFO | 127.0.0.1 - - [11/Jun/2025 13:59:56] "GET /teacher/update/2?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-06-11 13:59:56,261 | INFO | 127.0.0.1 - - [11/Jun/2025 13:59:56] "GET /teacher/update/2?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-06-11 14:00:03,467 | INFO | 127.0.0.1 - - [11/Jun/2025 14:00:03] "GET /teacher/dashboard HTTP/1.1" 200 -
+2025-06-11 14:00:03,487 | INFO | 127.0.0.1 - - [11/Jun/2025 14:00:03] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 14:00:07,704 | INFO | User teacher1 logged out
+2025-06-11 14:00:07,705 | INFO | 127.0.0.1 - - [11/Jun/2025 14:00:07] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-06-11 14:00:07,706 | INFO | 127.0.0.1 - - [11/Jun/2025 14:00:07] "GET / HTTP/1.1" 200 -
+2025-06-11 14:00:07,733 | INFO | 127.0.0.1 - - [11/Jun/2025 14:00:07] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 14:03:00,062 | INFO | 127.0.0.1 - - [11/Jun/2025 14:03:00] "GET /login HTTP/1.1" 200 -
+2025-06-11 14:03:03,735 | ERROR | Failed login attempt for username: admin
+2025-06-11 14:03:03,735 | INFO | 127.0.0.1 - - [11/Jun/2025 14:03:03] "POST /login HTTP/1.1" 200 -
+2025-06-11 14:03:06,240 | INFO | 127.0.0.1 - - [11/Jun/2025 14:03:06] "GET /login HTTP/1.1" 200 -
+2025-06-11 14:03:42,858 | INFO | 127.0.0.1 - - [11/Jun/2025 14:03:42] "POST /chat HTTP/1.1" 200 -
+2025-06-11 16:08:28,796 | INFO |  * Restarting with stat
+2025-06-11 16:08:29,331 | WARNING |  * Debugger is active!
+2025-06-11 16:08:29,338 | INFO |  * Debugger PIN: 760-872-756
+2025-06-11 16:08:29,348 | INFO |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-06-11 16:11:15,968 | INFO | 127.0.0.1 - - [11/Jun/2025 16:11:15] "GET / HTTP/1.1" 200 -
+2025-06-11 16:11:16,251 | INFO | 127.0.0.1 - - [11/Jun/2025 16:11:16] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 16:11:16,297 | INFO | 127.0.0.1 - - [11/Jun/2025 16:11:16] "[33mGET /static/favicon.ico HTTP/1.1[0m" 404 -
+2025-06-11 16:11:28,975 | INFO | 127.0.0.1 - - [11/Jun/2025 16:11:28] "POST /chat HTTP/1.1" 200 -
+2025-06-11 16:11:36,255 | INFO | 127.0.0.1 - - [11/Jun/2025 16:11:36] "POST /chat HTTP/1.1" 200 -
+2025-06-11 16:12:02,152 | INFO | 127.0.0.1 - - [11/Jun/2025 16:12:02] "POST /chat HTTP/1.1" 200 -
+2025-06-11 16:12:09,336 | INFO | 127.0.0.1 - - [11/Jun/2025 16:12:09] "POST /chat HTTP/1.1" 200 -
+2025-06-11 16:12:24,564 | INFO | 127.0.0.1 - - [11/Jun/2025 16:12:24] "GET /login HTTP/1.1" 200 -
+2025-06-11 16:12:24,589 | INFO | 127.0.0.1 - - [11/Jun/2025 16:12:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-11 16:12:49,085 | INFO | User upendra logged in with role student
+2025-06-11 16:12:49,101 | INFO | 127.0.0.1 - - [11/Jun/2025 16:12:49] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-06-11 16:12:49,168 | INFO | 127.0.0.1 - - [11/Jun/2025 16:12:49] "GET /student/dashboard HTTP/1.1" 200 -
+2025-06-11 16:12:49,203 | INFO | 127.0.0.1 - - [11/Jun/2025 16:12:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 19:53:25,926 | INFO |  * Restarting with stat
+2025-06-11 19:53:26,446 | WARNING |  * Debugger is active!
+2025-06-11 19:53:26,446 | INFO |  * Debugger PIN: 760-872-756
+2025-06-11 19:53:26,466 | INFO |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-06-11 19:53:40,941 | INFO | 127.0.0.1 - - [11/Jun/2025 19:53:40] "GET / HTTP/1.1" 200 -
+2025-06-11 19:53:41,137 | INFO | 127.0.0.1 - - [11/Jun/2025 19:53:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 19:53:42,740 | INFO | 127.0.0.1 - - [11/Jun/2025 19:53:42] "[33mGET /static/favicon.ico HTTP/1.1[0m" 404 -
+2025-06-11 19:53:52,464 | INFO | 127.0.0.1 - - [11/Jun/2025 19:53:52] "POST /chat HTTP/1.1" 200 -
+2025-06-11 19:54:08,103 | INFO | 127.0.0.1 - - [11/Jun/2025 19:54:08] "POST /chat HTTP/1.1" 200 -
+2025-06-11 19:54:25,074 | INFO | 127.0.0.1 - - [11/Jun/2025 19:54:25] "POST /chat HTTP/1.1" 200 -
+2025-06-11 19:54:34,128 | INFO | 127.0.0.1 - - [11/Jun/2025 19:54:34] "POST /chat HTTP/1.1" 200 -
+2025-06-11 19:54:38,687 | INFO | 127.0.0.1 - - [11/Jun/2025 19:54:38] "POST /chat HTTP/1.1" 200 -
+2025-06-11 19:54:44,016 | INFO | 127.0.0.1 - - [11/Jun/2025 19:54:44] "POST /chat HTTP/1.1" 200 -
+2025-06-11 19:55:00,624 | INFO | 127.0.0.1 - - [11/Jun/2025 19:55:00] "GET /login HTTP/1.1" 200 -
+2025-06-11 19:55:00,657 | INFO | 127.0.0.1 - - [11/Jun/2025 19:55:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-11 19:55:13,125 | INFO | User admin logged in with role admin
+2025-06-11 19:55:13,142 | INFO | 127.0.0.1 - - [11/Jun/2025 19:55:13] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-06-11 19:55:13,203 | INFO | 127.0.0.1 - - [11/Jun/2025 19:55:13] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-06-11 19:55:13,260 | INFO | 127.0.0.1 - - [11/Jun/2025 19:55:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 19:55:21,384 | INFO | 127.0.0.1 - - [11/Jun/2025 19:55:21] "GET /admin/manage HTTP/1.1" 200 -
+2025-06-11 19:55:42,809 | INFO | User admin logged out
+2025-06-11 19:55:42,814 | INFO | 127.0.0.1 - - [11/Jun/2025 19:55:42] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-06-11 19:55:42,818 | INFO | 127.0.0.1 - - [11/Jun/2025 19:55:42] "GET / HTTP/1.1" 200 -
+2025-06-11 19:55:42,840 | INFO | 127.0.0.1 - - [11/Jun/2025 19:55:42] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 19:55:44,926 | INFO | 127.0.0.1 - - [11/Jun/2025 19:55:44] "GET /login HTTP/1.1" 200 -
+2025-06-11 19:55:56,209 | INFO | User upendra logged in with role student
+2025-06-11 19:55:56,217 | INFO | 127.0.0.1 - - [11/Jun/2025 19:55:56] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-06-11 19:55:56,257 | INFO | 127.0.0.1 - - [11/Jun/2025 19:55:56] "GET /student/dashboard HTTP/1.1" 200 -
+2025-06-11 19:55:56,295 | INFO | 127.0.0.1 - - [11/Jun/2025 19:55:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 19:56:10,908 | INFO | User upendra logged out
+2025-06-11 19:56:10,908 | INFO | 127.0.0.1 - - [11/Jun/2025 19:56:10] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-06-11 19:56:10,917 | INFO | 127.0.0.1 - - [11/Jun/2025 19:56:10] "GET / HTTP/1.1" 200 -
+2025-06-11 19:56:10,941 | INFO | 127.0.0.1 - - [11/Jun/2025 19:56:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 19:56:13,355 | INFO | 127.0.0.1 - - [11/Jun/2025 19:56:13] "GET /login HTTP/1.1" 200 -
+2025-06-11 19:56:33,874 | INFO | User upendra logged in with role student
+2025-06-11 19:56:33,874 | INFO | 127.0.0.1 - - [11/Jun/2025 19:56:33] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-06-11 19:56:33,892 | INFO | 127.0.0.1 - - [11/Jun/2025 19:56:33] "GET /student/dashboard HTTP/1.1" 200 -
+2025-06-11 19:56:33,931 | INFO | 127.0.0.1 - - [11/Jun/2025 19:56:33] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 19:56:38,798 | INFO | User upendra logged out
+2025-06-11 19:56:38,802 | INFO | 127.0.0.1 - - [11/Jun/2025 19:56:38] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-06-11 19:56:38,809 | INFO | 127.0.0.1 - - [11/Jun/2025 19:56:38] "GET / HTTP/1.1" 200 -
+2025-06-11 19:56:38,831 | INFO | 127.0.0.1 - - [11/Jun/2025 19:56:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 19:56:40,807 | INFO | 127.0.0.1 - - [11/Jun/2025 19:56:40] "GET /login HTTP/1.1" 200 -
+2025-06-11 19:56:54,524 | INFO | User admin logged in with role admin
+2025-06-11 19:56:54,527 | INFO | 127.0.0.1 - - [11/Jun/2025 19:56:54] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-06-11 19:56:54,551 | INFO | 127.0.0.1 - - [11/Jun/2025 19:56:54] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-06-11 19:56:54,585 | INFO | 127.0.0.1 - - [11/Jun/2025 19:56:54] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 19:56:59,193 | INFO | 127.0.0.1 - - [11/Jun/2025 19:56:59] "GET /admin/manage HTTP/1.1" 200 -
+2025-06-11 19:57:13,081 | INFO | User admin logged out
+2025-06-11 19:57:13,081 | INFO | 127.0.0.1 - - [11/Jun/2025 19:57:13] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-06-11 19:57:13,090 | INFO | 127.0.0.1 - - [11/Jun/2025 19:57:13] "GET / HTTP/1.1" 200 -
+2025-06-11 19:57:13,114 | INFO | 127.0.0.1 - - [11/Jun/2025 19:57:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 19:57:14,914 | INFO | 127.0.0.1 - - [11/Jun/2025 19:57:14] "GET /login HTTP/1.1" 200 -
+2025-06-11 19:57:44,341 | ERROR | Failed login attempt for username: teacher
+2025-06-11 19:57:44,341 | INFO | 127.0.0.1 - - [11/Jun/2025 19:57:44] "POST /login HTTP/1.1" 200 -
+2025-06-11 19:57:54,593 | INFO | User teacher1 logged in with role teacher
+2025-06-11 19:57:54,594 | INFO | 127.0.0.1 - - [11/Jun/2025 19:57:54] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-06-11 19:57:54,658 | INFO | 127.0.0.1 - - [11/Jun/2025 19:57:54] "GET /teacher/dashboard HTTP/1.1" 200 -
+2025-06-11 19:57:54,678 | INFO | 127.0.0.1 - - [11/Jun/2025 19:57:54] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 19:58:00,459 | INFO | 127.0.0.1 - - [11/Jun/2025 19:58:00] "GET /teacher/update/1 HTTP/1.1" 200 -
+2025-06-11 19:58:00,478 | INFO | 127.0.0.1 - - [11/Jun/2025 19:58:00] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 19:58:09,231 | INFO | 127.0.0.1 - - [11/Jun/2025 19:58:09] "GET /teacher/dashboard HTTP/1.1" 200 -
+2025-06-11 19:58:09,256 | INFO | 127.0.0.1 - - [11/Jun/2025 19:58:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 19:58:13,342 | INFO | 127.0.0.1 - - [11/Jun/2025 19:58:13] "GET /teacher/update/2 HTTP/1.1" 200 -
+2025-06-11 19:58:13,362 | INFO | 127.0.0.1 - - [11/Jun/2025 19:58:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 19:58:35,000 | INFO | 127.0.0.1 - - [11/Jun/2025 19:58:35] "[35m[1mPOST /teacher/update/2 HTTP/1.1[0m" 500 -
+2025-06-11 19:58:35,024 | INFO | 127.0.0.1 - - [11/Jun/2025 19:58:35] "GET /teacher/update/2?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-06-11 19:58:35,027 | INFO | 127.0.0.1 - - [11/Jun/2025 19:58:35] "GET /teacher/update/2?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-06-11 19:58:35,050 | INFO | 127.0.0.1 - - [11/Jun/2025 19:58:35] "GET /teacher/update/2?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2025-06-11 19:58:35,052 | INFO | 127.0.0.1 - - [11/Jun/2025 19:58:35] "GET /teacher/update/2?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-06-11 19:58:35,065 | INFO | 127.0.0.1 - - [11/Jun/2025 19:58:35] "GET /teacher/update/2?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-06-11 20:03:21,184 | INFO |  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\ace-college-chatbot - Copy\\app.py', reloading
+2025-06-11 20:03:21,486 | INFO |  * Restarting with stat
+2025-06-11 20:06:26,065 | INFO |  * Restarting with stat
+2025-06-11 20:06:26,565 | WARNING |  * Debugger is active!
+2025-06-11 20:06:26,568 | INFO |  * Debugger PIN: 760-872-756
+2025-06-11 20:06:26,587 | INFO |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-06-11 20:06:35,881 | INFO | 127.0.0.1 - - [11/Jun/2025 20:06:35] "GET / HTTP/1.1" 200 -
+2025-06-11 20:06:36,023 | INFO | 127.0.0.1 - - [11/Jun/2025 20:06:36] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:06:36,102 | INFO | 127.0.0.1 - - [11/Jun/2025 20:06:36] "GET /api/chat-history HTTP/1.1" 200 -
+2025-06-11 20:06:52,708 | INFO | 127.0.0.1 - - [11/Jun/2025 20:06:52] "[35m[1mGET /teacher/dashboard HTTP/1.1[0m" 500 -
+2025-06-11 20:06:52,724 | INFO | 127.0.0.1 - - [11/Jun/2025 20:06:52] "GET /teacher/dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-06-11 20:06:52,729 | INFO | 127.0.0.1 - - [11/Jun/2025 20:06:52] "GET /teacher/dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-06-11 20:06:52,740 | INFO | 127.0.0.1 - - [11/Jun/2025 20:06:52] "GET /teacher/dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-06-11 20:06:52,760 | INFO | 127.0.0.1 - - [11/Jun/2025 20:06:52] "GET /teacher/dashboard?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2025-06-11 20:06:52,778 | INFO | 127.0.0.1 - - [11/Jun/2025 20:06:52] "GET /teacher/dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-06-11 20:06:58,865 | INFO | User teacher1 logged out
+2025-06-11 20:06:58,866 | INFO | 127.0.0.1 - - [11/Jun/2025 20:06:58] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-06-11 20:06:58,875 | INFO | 127.0.0.1 - - [11/Jun/2025 20:06:58] "GET / HTTP/1.1" 200 -
+2025-06-11 20:06:58,885 | INFO | 127.0.0.1 - - [11/Jun/2025 20:06:58] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:07:00,578 | INFO | 127.0.0.1 - - [11/Jun/2025 20:07:00] "GET /login HTTP/1.1" 200 -
+2025-06-11 20:07:06,144 | INFO | 127.0.0.1 - - [11/Jun/2025 20:07:06] "GET /login HTTP/1.1" 200 -
+2025-06-11 20:07:20,041 | INFO | 127.0.0.1 - - [11/Jun/2025 20:07:20] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-06-11 20:07:20,057 | INFO | 127.0.0.1 - - [11/Jun/2025 20:07:20] "GET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-06-11 20:07:20,061 | INFO | 127.0.0.1 - - [11/Jun/2025 20:07:20] "GET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-06-11 20:07:20,078 | INFO | 127.0.0.1 - - [11/Jun/2025 20:07:20] "GET /login?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2025-06-11 20:07:20,078 | INFO | 127.0.0.1 - - [11/Jun/2025 20:07:20] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-06-11 20:07:20,095 | INFO | 127.0.0.1 - - [11/Jun/2025 20:07:20] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-06-11 20:07:33,601 | INFO | 127.0.0.1 - - [11/Jun/2025 20:07:33] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-06-11 20:07:33,611 | INFO | 127.0.0.1 - - [11/Jun/2025 20:07:33] "GET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-06-11 20:07:33,623 | INFO | 127.0.0.1 - - [11/Jun/2025 20:07:33] "GET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-06-11 20:07:33,634 | INFO | 127.0.0.1 - - [11/Jun/2025 20:07:33] "GET /login?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2025-06-11 20:07:33,634 | INFO | 127.0.0.1 - - [11/Jun/2025 20:07:33] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-06-11 20:07:33,645 | INFO | 127.0.0.1 - - [11/Jun/2025 20:07:33] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-06-11 20:08:02,431 | INFO |  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\ace-college-chatbot - Copy\\auth.py', reloading
+2025-06-11 20:08:02,522 | INFO |  * Restarting with stat
+2025-06-11 20:08:03,297 | WARNING |  * Debugger is active!
+2025-06-11 20:08:03,297 | INFO |  * Debugger PIN: 760-872-756
+2025-06-11 20:08:03,318 | INFO |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-06-11 20:08:19,416 | INFO | User upendra logged in with role student
+2025-06-11 20:08:19,425 | INFO | 127.0.0.1 - - [11/Jun/2025 20:08:19] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-06-11 20:08:19,469 | INFO | 127.0.0.1 - - [11/Jun/2025 20:08:19] "GET /student/dashboard HTTP/1.1" 200 -
+2025-06-11 20:08:19,704 | INFO | 127.0.0.1 - - [11/Jun/2025 20:08:19] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:08:23,820 | INFO | User upendra logged out
+2025-06-11 20:08:23,822 | INFO | 127.0.0.1 - - [11/Jun/2025 20:08:23] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-06-11 20:08:23,832 | INFO | 127.0.0.1 - - [11/Jun/2025 20:08:23] "GET / HTTP/1.1" 200 -
+2025-06-11 20:08:23,864 | INFO | 127.0.0.1 - - [11/Jun/2025 20:08:23] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:08:26,196 | INFO | 127.0.0.1 - - [11/Jun/2025 20:08:26] "GET /login HTTP/1.1" 200 -
+2025-06-11 20:08:31,582 | INFO | User teacher1 logged in with role teacher
+2025-06-11 20:08:31,584 | INFO | 127.0.0.1 - - [11/Jun/2025 20:08:31] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-06-11 20:08:31,658 | INFO | 127.0.0.1 - - [11/Jun/2025 20:08:31] "[35m[1mGET /teacher/dashboard HTTP/1.1[0m" 500 -
+2025-06-11 20:08:31,694 | INFO | 127.0.0.1 - - [11/Jun/2025 20:08:31] "GET /teacher/dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-06-11 20:08:31,700 | INFO | 127.0.0.1 - - [11/Jun/2025 20:08:31] "GET /teacher/dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-06-11 20:08:31,711 | INFO | 127.0.0.1 - - [11/Jun/2025 20:08:31] "GET /teacher/dashboard?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2025-06-11 20:08:31,717 | INFO | 127.0.0.1 - - [11/Jun/2025 20:08:31] "GET /teacher/dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-06-11 20:08:57,980 | INFO |  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\ace-college-chatbot - Copy\\app.py', reloading
+2025-06-11 20:08:58,039 | INFO |  * Restarting with stat
+2025-06-11 20:08:58,629 | WARNING |  * Debugger is active!
+2025-06-11 20:08:58,631 | INFO |  * Debugger PIN: 760-872-756
+2025-06-11 20:08:58,646 | INFO |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-06-11 20:09:15,929 | INFO | User teacher1 logged in with role teacher
+2025-06-11 20:09:15,929 | INFO | 127.0.0.1 - - [11/Jun/2025 20:09:15] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-06-11 20:09:15,961 | INFO | 127.0.0.1 - - [11/Jun/2025 20:09:15] "[35m[1mGET /teacher/dashboard HTTP/1.1[0m" 500 -
+2025-06-11 20:09:16,086 | INFO | 127.0.0.1 - - [11/Jun/2025 20:09:16] "GET /teacher/dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-06-11 20:09:16,086 | INFO | 127.0.0.1 - - [11/Jun/2025 20:09:16] "GET /teacher/dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-06-11 20:09:16,110 | INFO | 127.0.0.1 - - [11/Jun/2025 20:09:16] "GET /teacher/dashboard?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2025-06-11 20:09:16,110 | INFO | 127.0.0.1 - - [11/Jun/2025 20:09:16] "GET /teacher/dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-06-11 20:09:23,337 | INFO | 127.0.0.1 - - [11/Jun/2025 20:09:23] "GET /login HTTP/1.1" 200 -
+2025-06-11 20:09:25,600 | ERROR | Failed login attempt for username: admin
+2025-06-11 20:09:25,604 | INFO | 127.0.0.1 - - [11/Jun/2025 20:09:25] "POST /login HTTP/1.1" 200 -
+2025-06-11 20:09:32,254 | INFO | User upendra logged in with role student
+2025-06-11 20:09:32,258 | INFO | 127.0.0.1 - - [11/Jun/2025 20:09:32] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-06-11 20:09:32,284 | INFO | 127.0.0.1 - - [11/Jun/2025 20:09:32] "GET /student/dashboard HTTP/1.1" 200 -
+2025-06-11 20:09:32,308 | INFO | 127.0.0.1 - - [11/Jun/2025 20:09:32] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:09:34,637 | INFO | User upendra logged out
+2025-06-11 20:09:34,637 | INFO | 127.0.0.1 - - [11/Jun/2025 20:09:34] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-06-11 20:09:34,659 | INFO | 127.0.0.1 - - [11/Jun/2025 20:09:34] "GET / HTTP/1.1" 200 -
+2025-06-11 20:09:34,686 | INFO | 127.0.0.1 - - [11/Jun/2025 20:09:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:09:36,681 | INFO | 127.0.0.1 - - [11/Jun/2025 20:09:36] "GET /login HTTP/1.1" 200 -
+2025-06-11 20:09:41,121 | INFO | User upendra logged in with role student
+2025-06-11 20:09:41,124 | INFO | 127.0.0.1 - - [11/Jun/2025 20:09:41] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-06-11 20:09:41,138 | INFO | 127.0.0.1 - - [11/Jun/2025 20:09:41] "GET /student/dashboard HTTP/1.1" 200 -
+2025-06-11 20:09:41,177 | INFO | 127.0.0.1 - - [11/Jun/2025 20:09:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:09:45,408 | INFO | User upendra logged out
+2025-06-11 20:09:45,408 | INFO | 127.0.0.1 - - [11/Jun/2025 20:09:45] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-06-11 20:09:45,414 | INFO | 127.0.0.1 - - [11/Jun/2025 20:09:45] "GET / HTTP/1.1" 200 -
+2025-06-11 20:09:45,436 | INFO | 127.0.0.1 - - [11/Jun/2025 20:09:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:09:47,007 | INFO | 127.0.0.1 - - [11/Jun/2025 20:09:47] "GET /login HTTP/1.1" 200 -
+2025-06-11 20:09:58,052 | INFO | User admin logged in with role admin
+2025-06-11 20:09:58,055 | INFO | 127.0.0.1 - - [11/Jun/2025 20:09:58] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-06-11 20:09:58,087 | INFO | 127.0.0.1 - - [11/Jun/2025 20:09:58] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-06-11 20:09:58,109 | INFO | 127.0.0.1 - - [11/Jun/2025 20:09:58] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:10:02,338 | INFO | 127.0.0.1 - - [11/Jun/2025 20:10:02] "GET /admin/manage HTTP/1.1" 200 -
+2025-06-11 20:10:20,591 | INFO | User teacher1 logged in with role teacher
+2025-06-11 20:10:20,594 | INFO | 127.0.0.1 - - [11/Jun/2025 20:10:20] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-06-11 20:10:20,657 | INFO | 127.0.0.1 - - [11/Jun/2025 20:10:20] "[35m[1mGET /teacher/dashboard HTTP/1.1[0m" 500 -
+2025-06-11 20:10:20,688 | INFO | 127.0.0.1 - - [11/Jun/2025 20:10:20] "GET /teacher/dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-06-11 20:10:20,694 | INFO | 127.0.0.1 - - [11/Jun/2025 20:10:20] "GET /teacher/dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-06-11 20:10:20,705 | INFO | 127.0.0.1 - - [11/Jun/2025 20:10:20] "GET /teacher/dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-06-11 20:10:20,707 | INFO | 127.0.0.1 - - [11/Jun/2025 20:10:20] "GET /teacher/dashboard?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2025-06-11 20:10:58,429 | INFO | 127.0.0.1 - - [11/Jun/2025 20:10:58] "GET /login HTTP/1.1" 200 -
+2025-06-11 20:11:07,320 | INFO | User teacher1 logged in with role teacher
+2025-06-11 20:11:07,322 | INFO | 127.0.0.1 - - [11/Jun/2025 20:11:07] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-06-11 20:11:07,363 | INFO | 127.0.0.1 - - [11/Jun/2025 20:11:07] "GET /teacher/dashboard HTTP/1.1" 200 -
+2025-06-11 20:11:07,400 | INFO | 127.0.0.1 - - [11/Jun/2025 20:11:07] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:11:39,424 | INFO | 127.0.0.1 - - [11/Jun/2025 20:11:39] "GET /teacher/update/3 HTTP/1.1" 200 -
+2025-06-11 20:12:04,387 | INFO | 127.0.0.1 - - [11/Jun/2025 20:12:04] "GET /teacher/update/2 HTTP/1.1" 200 -
+2025-06-11 20:12:21,453 | INFO | Teacher updated student ID 2: balance=100000.0, attendance=70
+2025-06-11 20:12:21,457 | INFO | 127.0.0.1 - - [11/Jun/2025 20:12:21] "[32mPOST /teacher/update/2 HTTP/1.1[0m" 302 -
+2025-06-11 20:12:21,475 | INFO | 127.0.0.1 - - [11/Jun/2025 20:12:21] "GET /teacher/dashboard HTTP/1.1" 200 -
+2025-06-11 20:12:21,503 | INFO | 127.0.0.1 - - [11/Jun/2025 20:12:21] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:12:33,467 | INFO | 127.0.0.1 - - [11/Jun/2025 20:12:33] "GET /teacher/update/2 HTTP/1.1" 200 -
+2025-06-11 20:12:35,004 | INFO | Teacher updated student ID 2: balance=100000.0, attendance=70
+2025-06-11 20:12:35,008 | INFO | 127.0.0.1 - - [11/Jun/2025 20:12:35] "[32mPOST /teacher/update/2 HTTP/1.1[0m" 302 -
+2025-06-11 20:12:35,025 | INFO | 127.0.0.1 - - [11/Jun/2025 20:12:35] "GET /teacher/dashboard HTTP/1.1" 200 -
+2025-06-11 20:12:35,049 | INFO | 127.0.0.1 - - [11/Jun/2025 20:12:35] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:12:39,978 | INFO | User teacher1 logged out
+2025-06-11 20:12:39,981 | INFO | 127.0.0.1 - - [11/Jun/2025 20:12:39] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-06-11 20:12:39,985 | INFO | 127.0.0.1 - - [11/Jun/2025 20:12:39] "GET / HTTP/1.1" 200 -
+2025-06-11 20:12:40,015 | INFO | 127.0.0.1 - - [11/Jun/2025 20:12:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:12:42,213 | INFO | 127.0.0.1 - - [11/Jun/2025 20:12:42] "GET /login HTTP/1.1" 200 -
+2025-06-11 20:12:49,541 | INFO | User upendra logged in with role student
+2025-06-11 20:12:49,541 | INFO | 127.0.0.1 - - [11/Jun/2025 20:12:49] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-06-11 20:12:49,559 | INFO | 127.0.0.1 - - [11/Jun/2025 20:12:49] "GET /student/dashboard HTTP/1.1" 200 -
+2025-06-11 20:12:49,591 | INFO | 127.0.0.1 - - [11/Jun/2025 20:12:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:24:38,599 | INFO |  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\ace-college-chatbot - Copy\\app.py', reloading
+2025-06-11 20:24:38,808 | INFO |  * Restarting with stat
+2025-06-11 20:24:39,777 | WARNING |  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-06-11 20:24:39,777 | INFO |  * Running on http://192.168.0.103:5000/ (Press CTRL+C to quit)
+2025-06-11 20:32:48,985 | INFO | 127.0.0.1 - - [11/Jun/2025 20:32:48] "GET / HTTP/1.1" 200 -
+2025-06-11 20:32:49,276 | INFO | 127.0.0.1 - - [11/Jun/2025 20:32:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:32:50,266 | INFO | 127.0.0.1 - - [11/Jun/2025 20:32:50] "[33mGET /static/favicon.ico HTTP/1.1[0m" 404 -
+2025-06-11 20:32:53,077 | INFO | 127.0.0.1 - - [11/Jun/2025 20:32:53] "GET /login HTTP/1.1" 200 -
+2025-06-11 20:32:53,258 | INFO | 127.0.0.1 - - [11/Jun/2025 20:32:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-11 20:35:01,237 | WARNING |  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-06-11 20:35:01,238 | INFO |  * Running on http://192.168.0.103:5000/ (Press CTRL+C to quit)
+2025-06-11 20:35:21,399 | INFO | 127.0.0.1 - - [11/Jun/2025 20:35:21] "GET / HTTP/1.1" 200 -
+2025-06-11 20:35:21,757 | INFO | 127.0.0.1 - - [11/Jun/2025 20:35:21] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:35:24,450 | INFO | 127.0.0.1 - - [11/Jun/2025 20:35:24] "GET /login HTTP/1.1" 200 -
+2025-06-11 20:36:33,547 | ERROR | Exception on /login [POST]
+Traceback (most recent call last):
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 2070, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 1515, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 1513, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 1499, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\app.py", line 56, in login
+    user = verify_user(username, password)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\auth.py", line 10, in verify_user
+    if user and bcrypt.checkpw(password.encode(), user.password.encode()):
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: Invalid salt
+2025-06-11 20:36:33,580 | INFO | 127.0.0.1 - - [11/Jun/2025 20:36:33] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-06-11 20:36:39,105 | INFO | 127.0.0.1 - - [11/Jun/2025 20:36:39] "GET / HTTP/1.1" 200 -
+2025-06-11 20:36:39,132 | INFO | 127.0.0.1 - - [11/Jun/2025 20:36:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:36:41,493 | INFO | 127.0.0.1 - - [11/Jun/2025 20:36:41] "GET /login HTTP/1.1" 200 -
+2025-06-11 20:36:53,712 | ERROR | Exception on /login [POST]
+Traceback (most recent call last):
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 2070, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 1515, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 1513, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 1499, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\app.py", line 56, in login
+    user = verify_user(username, password)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\auth.py", line 10, in verify_user
+    if user and bcrypt.checkpw(password.encode(), user.password.encode()):
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: Invalid salt
+2025-06-11 20:36:53,717 | INFO | 127.0.0.1 - - [11/Jun/2025 20:36:53] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-06-11 20:36:55,326 | INFO | 127.0.0.1 - - [11/Jun/2025 20:36:55] "GET / HTTP/1.1" 200 -
+2025-06-11 20:36:55,648 | INFO | 127.0.0.1 - - [11/Jun/2025 20:36:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:36:58,693 | INFO | 127.0.0.1 - - [11/Jun/2025 20:36:58] "GET /login HTTP/1.1" 200 -
+2025-06-11 20:37:23,026 | ERROR | Exception on /login [POST]
+Traceback (most recent call last):
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 2070, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 1515, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 1513, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 1499, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\app.py", line 56, in login
+    user = verify_user(username, password)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\auth.py", line 10, in verify_user
+    if user and bcrypt.checkpw(password.encode(), user.password.encode()):
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: Invalid salt
+2025-06-11 20:37:23,028 | INFO | 127.0.0.1 - - [11/Jun/2025 20:37:23] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-06-11 20:38:22,863 | WARNING |  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-06-11 20:38:22,863 | INFO |  * Running on http://192.168.0.103:5000/ (Press CTRL+C to quit)
+2025-06-11 20:38:38,888 | INFO | 127.0.0.1 - - [11/Jun/2025 20:38:38] "GET / HTTP/1.1" 200 -
+2025-06-11 20:38:39,310 | INFO | 127.0.0.1 - - [11/Jun/2025 20:38:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:38:41,735 | INFO | 127.0.0.1 - - [11/Jun/2025 20:38:41] "GET /login HTTP/1.1" 200 -
+2025-06-11 20:38:51,761 | ERROR | Exception on /login [POST]
+Traceback (most recent call last):
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 2070, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 1515, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 1513, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 1499, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\app.py", line 56, in login
+    user = verify_user(username, password)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\auth.py", line 10, in verify_user
+    if user and bcrypt.checkpw(password.encode(), user.password.encode()):
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: Invalid salt
+2025-06-11 20:38:51,771 | INFO | 127.0.0.1 - - [11/Jun/2025 20:38:51] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-06-11 20:38:53,577 | INFO | 127.0.0.1 - - [11/Jun/2025 20:38:53] "GET / HTTP/1.1" 200 -
+2025-06-11 20:38:53,808 | INFO | 127.0.0.1 - - [11/Jun/2025 20:38:53] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:38:58,933 | ERROR | Exception on /chat [POST]
+Traceback (most recent call last):
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 2070, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 1515, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 1513, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 1499, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\app.py", line 223, in chat
+    response = get_response(user_input, role, user_id, student=student)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: get_response() got an unexpected keyword argument 'student'
+2025-06-11 20:38:58,933 | INFO | 127.0.0.1 - - [11/Jun/2025 20:38:58] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2025-06-11 20:39:00,712 | ERROR | Exception on /chat [POST]
+Traceback (most recent call last):
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 2070, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 1515, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 1513, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 1499, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\app.py", line 223, in chat
+    response = get_response(user_input, role, user_id, student=student)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: get_response() got an unexpected keyword argument 'student'
+2025-06-11 20:39:00,712 | INFO | 127.0.0.1 - - [11/Jun/2025 20:39:00] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2025-06-11 20:39:01,278 | ERROR | Exception on /chat [POST]
+Traceback (most recent call last):
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 2070, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 1515, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 1513, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 1499, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\app.py", line 223, in chat
+    response = get_response(user_input, role, user_id, student=student)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: get_response() got an unexpected keyword argument 'student'
+2025-06-11 20:39:01,278 | INFO | 127.0.0.1 - - [11/Jun/2025 20:39:01] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2025-06-11 20:39:01,877 | ERROR | Exception on /chat [POST]
+Traceback (most recent call last):
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 2070, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 1515, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 1513, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 1499, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\app.py", line 223, in chat
+    response = get_response(user_input, role, user_id, student=student)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: get_response() got an unexpected keyword argument 'student'
+2025-06-11 20:39:01,877 | INFO | 127.0.0.1 - - [11/Jun/2025 20:39:01] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2025-06-11 20:39:02,094 | ERROR | Exception on /chat [POST]
+Traceback (most recent call last):
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 2070, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 1515, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 1513, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 1499, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\app.py", line 223, in chat
+    response = get_response(user_input, role, user_id, student=student)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: get_response() got an unexpected keyword argument 'student'
+2025-06-11 20:39:02,096 | INFO | 127.0.0.1 - - [11/Jun/2025 20:39:02] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2025-06-11 20:39:41,332 | ERROR | Exception on /chat [POST]
+Traceback (most recent call last):
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 2070, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 1515, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 1513, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 1499, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\app.py", line 223, in chat
+TypeError: get_response() got an unexpected keyword argument 'student'
+2025-06-11 20:39:41,359 | INFO | 127.0.0.1 - - [11/Jun/2025 20:39:41] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2025-06-11 20:39:43,811 | INFO | 127.0.0.1 - - [11/Jun/2025 20:39:43] "GET / HTTP/1.1" 200 -
+2025-06-11 20:39:43,843 | INFO | 127.0.0.1 - - [11/Jun/2025 20:39:43] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:39:48,733 | ERROR | Exception on /chat [POST]
+Traceback (most recent call last):
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 2070, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 1515, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 1513, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 1499, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\app.py", line 223, in chat
+TypeError: get_response() got an unexpected keyword argument 'student'
+2025-06-11 20:39:48,737 | INFO | 127.0.0.1 - - [11/Jun/2025 20:39:48] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2025-06-11 20:40:08,328 | ERROR | Exception on /chat [POST]
+Traceback (most recent call last):
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 2070, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 1515, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 1513, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 1499, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\app.py", line 223, in chat
+TypeError: get_response() got an unexpected keyword argument 'student'
+2025-06-11 20:40:08,328 | INFO | 127.0.0.1 - - [11/Jun/2025 20:40:08] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2025-06-11 20:41:09,944 | ERROR | Exception on /chat [POST]
+Traceback (most recent call last):
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 2070, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 1515, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 1513, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\venv\Lib\site-packages\flask\app.py", line 1499, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\ace-college-chatbot - Copy\app.py", line 223, in chat
+TypeError: get_response() got an unexpected keyword argument 'student'
+2025-06-11 20:41:09,946 | INFO | 127.0.0.1 - - [11/Jun/2025 20:41:09] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2025-06-11 20:42:36,832 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-11 20:42:36,832 | INFO | [33mPress CTRL+C to quit[0m
+2025-06-11 20:42:36,840 | INFO |  * Restarting with stat
+2025-06-11 20:42:37,334 | WARNING |  * Debugger is active!
+2025-06-11 20:42:37,334 | INFO |  * Debugger PIN: 157-965-184
+2025-06-11 20:42:46,228 | INFO | 127.0.0.1 - - [11/Jun/2025 20:42:46] "GET / HTTP/1.1" 200 -
+2025-06-11 20:42:46,336 | INFO | 127.0.0.1 - - [11/Jun/2025 20:42:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:42:46,407 | INFO | 127.0.0.1 - - [11/Jun/2025 20:42:46] "GET /api/chat-history HTTP/1.1" 200 -
+2025-06-11 20:42:51,922 | INFO | Chat saved for user_id 5: ace
+2025-06-11 20:42:51,922 | INFO | 127.0.0.1 - - [11/Jun/2025 20:42:51] "POST /chat HTTP/1.1" 200 -
+2025-06-11 20:42:51,944 | INFO | 127.0.0.1 - - [11/Jun/2025 20:42:51] "GET /api/chat-history HTTP/1.1" 200 -
+2025-06-11 20:42:55,762 | INFO | User upendra logged out
+2025-06-11 20:42:55,765 | INFO | 127.0.0.1 - - [11/Jun/2025 20:42:55] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-06-11 20:42:55,775 | INFO | 127.0.0.1 - - [11/Jun/2025 20:42:55] "GET / HTTP/1.1" 200 -
+2025-06-11 20:42:55,794 | INFO | 127.0.0.1 - - [11/Jun/2025 20:42:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:42:56,760 | INFO | 127.0.0.1 - - [11/Jun/2025 20:42:56] "GET /login HTTP/1.1" 200 -
+2025-06-11 20:43:05,810 | INFO | User upendra logged in with role student
+2025-06-11 20:43:05,813 | INFO | 127.0.0.1 - - [11/Jun/2025 20:43:05] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-06-11 20:43:05,875 | INFO | 127.0.0.1 - - [11/Jun/2025 20:43:05] "GET /student/dashboard HTTP/1.1" 200 -
+2025-06-11 20:43:05,908 | INFO | 127.0.0.1 - - [11/Jun/2025 20:43:05] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:43:09,861 | INFO | User upendra logged out
+2025-06-11 20:43:09,866 | INFO | 127.0.0.1 - - [11/Jun/2025 20:43:09] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-06-11 20:43:09,875 | INFO | 127.0.0.1 - - [11/Jun/2025 20:43:09] "GET / HTTP/1.1" 200 -
+2025-06-11 20:43:09,911 | INFO | 127.0.0.1 - - [11/Jun/2025 20:43:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:43:11,844 | INFO | 127.0.0.1 - - [11/Jun/2025 20:43:11] "GET /login HTTP/1.1" 200 -
+2025-06-11 20:43:16,853 | INFO | User teacher1 logged in with role teacher
+2025-06-11 20:43:16,858 | INFO | 127.0.0.1 - - [11/Jun/2025 20:43:16] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-06-11 20:43:16,942 | INFO | 127.0.0.1 - - [11/Jun/2025 20:43:16] "GET /teacher/dashboard HTTP/1.1" 200 -
+2025-06-11 20:43:16,980 | INFO | 127.0.0.1 - - [11/Jun/2025 20:43:16] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:43:21,416 | INFO | 127.0.0.1 - - [11/Jun/2025 20:43:21] "GET /teacher/update/2 HTTP/1.1" 200 -
+2025-06-11 20:45:45,702 | INFO | 127.0.0.1 - - [11/Jun/2025 20:45:45] "GET /teacher/update/1 HTTP/1.1" 200 -
+2025-06-11 20:45:56,143 | INFO | Teacher updated student ID 1: balance=99500.0, attendance=70
+2025-06-11 20:45:56,143 | INFO | 127.0.0.1 - - [11/Jun/2025 20:45:56] "[32mPOST /teacher/update/1 HTTP/1.1[0m" 302 -
+2025-06-11 20:45:56,159 | INFO | 127.0.0.1 - - [11/Jun/2025 20:45:56] "GET /teacher/dashboard HTTP/1.1" 200 -
+2025-06-11 20:45:56,195 | INFO | 127.0.0.1 - - [11/Jun/2025 20:45:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:48:35,570 | INFO | 127.0.0.1 - - [11/Jun/2025 20:48:35] "GET /teacher/dashboard HTTP/1.1" 200 -
+2025-06-11 20:48:35,584 | INFO | 127.0.0.1 - - [11/Jun/2025 20:48:35] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:48:37,903 | INFO | 127.0.0.1 - - [11/Jun/2025 20:48:37] "GET /teacher/update/2 HTTP/1.1" 200 -
+2025-06-11 20:48:57,027 | INFO | 127.0.0.1 - - [11/Jun/2025 20:48:57] "GET / HTTP/1.1" 200 -
+2025-06-11 20:48:57,138 | INFO | 127.0.0.1 - - [11/Jun/2025 20:48:57] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:48:57,242 | INFO | 127.0.0.1 - - [11/Jun/2025 20:48:57] "GET /api/chat-history HTTP/1.1" 200 -
+2025-06-11 20:49:01,950 | INFO | User teacher1 logged out
+2025-06-11 20:49:01,952 | INFO | 127.0.0.1 - - [11/Jun/2025 20:49:01] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-06-11 20:49:01,962 | INFO | 127.0.0.1 - - [11/Jun/2025 20:49:01] "GET / HTTP/1.1" 200 -
+2025-06-11 20:49:01,977 | INFO | 127.0.0.1 - - [11/Jun/2025 20:49:01] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:49:05,020 | INFO | 127.0.0.1 - - [11/Jun/2025 20:49:05] "GET /login HTTP/1.1" 200 -
+2025-06-11 20:49:13,642 | INFO | User teacher1 logged in with role teacher
+2025-06-11 20:49:13,652 | INFO | 127.0.0.1 - - [11/Jun/2025 20:49:13] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-06-11 20:49:13,676 | INFO | 127.0.0.1 - - [11/Jun/2025 20:49:13] "GET /teacher/dashboard HTTP/1.1" 200 -
+2025-06-11 20:49:13,714 | INFO | 127.0.0.1 - - [11/Jun/2025 20:49:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:49:17,104 | INFO | 127.0.0.1 - - [11/Jun/2025 20:49:17] "GET /teacher/update/2 HTTP/1.1" 200 -
+2025-06-11 20:49:46,004 | INFO | 127.0.0.1 - - [11/Jun/2025 20:49:46] "GET /teacher/update/2 HTTP/1.1" 200 -
+2025-06-11 20:50:21,033 | INFO | Teacher updated student ID 2: balance=100000.0, attendance=60.00
+2025-06-11 20:50:21,033 | INFO | 127.0.0.1 - - [11/Jun/2025 20:50:21] "[32mPOST /teacher/update/2 HTTP/1.1[0m" 302 -
+2025-06-11 20:50:21,059 | INFO | 127.0.0.1 - - [11/Jun/2025 20:50:21] "GET /teacher/dashboard HTTP/1.1" 200 -
+2025-06-11 20:50:21,097 | INFO | 127.0.0.1 - - [11/Jun/2025 20:50:21] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:50:33,539 | INFO | 127.0.0.1 - - [11/Jun/2025 20:50:33] "GET /teacher/update/2 HTTP/1.1" 200 -
+2025-06-11 20:50:59,232 | INFO | 127.0.0.1 - - [11/Jun/2025 20:50:59] "GET /teacher/update/2 HTTP/1.1" 200 -
+2025-06-11 20:51:04,643 | INFO | Teacher updated student ID 2: balance=100000.0, attendance=60.00
+2025-06-11 20:51:04,645 | INFO | 127.0.0.1 - - [11/Jun/2025 20:51:04] "[32mPOST /teacher/update/2 HTTP/1.1[0m" 302 -
+2025-06-11 20:51:04,664 | INFO | 127.0.0.1 - - [11/Jun/2025 20:51:04] "GET /teacher/dashboard HTTP/1.1" 200 -
+2025-06-11 20:51:04,687 | INFO | 127.0.0.1 - - [11/Jun/2025 20:51:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:51:09,917 | INFO | User teacher1 logged out
+2025-06-11 20:51:09,917 | INFO | 127.0.0.1 - - [11/Jun/2025 20:51:09] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-06-11 20:51:09,925 | INFO | 127.0.0.1 - - [11/Jun/2025 20:51:09] "GET / HTTP/1.1" 200 -
+2025-06-11 20:51:09,948 | INFO | 127.0.0.1 - - [11/Jun/2025 20:51:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:51:11,900 | INFO | 127.0.0.1 - - [11/Jun/2025 20:51:11] "GET /login HTTP/1.1" 200 -
+2025-06-11 20:51:19,159 | INFO | User upendra logged in with role student
+2025-06-11 20:51:19,163 | INFO | 127.0.0.1 - - [11/Jun/2025 20:51:19] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-06-11 20:51:19,190 | INFO | 127.0.0.1 - - [11/Jun/2025 20:51:19] "GET /student/dashboard HTTP/1.1" 200 -
+2025-06-11 20:51:19,244 | INFO | 127.0.0.1 - - [11/Jun/2025 20:51:19] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:51:29,625 | INFO | Payment of 1000.0 processed for student ID 2
+2025-06-11 20:51:29,625 | INFO | 127.0.0.1 - - [11/Jun/2025 20:51:29] "POST /pay_fees HTTP/1.1" 200 -
+2025-06-11 20:51:29,651 | INFO | 127.0.0.1 - - [11/Jun/2025 20:51:29] "GET /student/dashboard HTTP/1.1" 200 -
+2025-06-11 20:51:29,665 | INFO | 127.0.0.1 - - [11/Jun/2025 20:51:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:51:32,498 | INFO | User upendra logged out
+2025-06-11 20:51:32,498 | INFO | 127.0.0.1 - - [11/Jun/2025 20:51:32] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-06-11 20:51:32,510 | INFO | 127.0.0.1 - - [11/Jun/2025 20:51:32] "GET / HTTP/1.1" 200 -
+2025-06-11 20:51:32,534 | INFO | 127.0.0.1 - - [11/Jun/2025 20:51:32] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:51:34,389 | INFO | 127.0.0.1 - - [11/Jun/2025 20:51:34] "GET /login HTTP/1.1" 200 -
+2025-06-11 20:51:41,145 | INFO | User teacher1 logged in with role teacher
+2025-06-11 20:51:41,147 | INFO | 127.0.0.1 - - [11/Jun/2025 20:51:41] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-06-11 20:51:41,175 | INFO | 127.0.0.1 - - [11/Jun/2025 20:51:41] "GET /teacher/dashboard HTTP/1.1" 200 -
+2025-06-11 20:51:41,216 | INFO | 127.0.0.1 - - [11/Jun/2025 20:51:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:51:46,084 | INFO | 127.0.0.1 - - [11/Jun/2025 20:51:46] "GET /teacher/update/2 HTTP/1.1" 200 -
+2025-06-11 20:51:53,141 | INFO | Teacher updated student ID 2: balance=0.0, attendance=60.00
+2025-06-11 20:51:53,142 | INFO | 127.0.0.1 - - [11/Jun/2025 20:51:53] "[32mPOST /teacher/update/2 HTTP/1.1[0m" 302 -
+2025-06-11 20:51:53,159 | INFO | 127.0.0.1 - - [11/Jun/2025 20:51:53] "GET /teacher/dashboard HTTP/1.1" 200 -
+2025-06-11 20:51:53,191 | INFO | 127.0.0.1 - - [11/Jun/2025 20:51:53] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:51:56,820 | INFO | User teacher1 logged out
+2025-06-11 20:51:56,820 | INFO | 127.0.0.1 - - [11/Jun/2025 20:51:56] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-06-11 20:51:56,826 | INFO | 127.0.0.1 - - [11/Jun/2025 20:51:56] "GET / HTTP/1.1" 200 -
+2025-06-11 20:51:56,848 | INFO | 127.0.0.1 - - [11/Jun/2025 20:51:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:51:59,285 | INFO | 127.0.0.1 - - [11/Jun/2025 20:51:59] "GET /login HTTP/1.1" 200 -
+2025-06-11 20:52:07,778 | INFO | User upendra logged in with role student
+2025-06-11 20:52:07,785 | INFO | 127.0.0.1 - - [11/Jun/2025 20:52:07] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-06-11 20:52:07,809 | INFO | 127.0.0.1 - - [11/Jun/2025 20:52:07] "GET /student/dashboard HTTP/1.1" 200 -
+2025-06-11 20:52:07,855 | INFO | 127.0.0.1 - - [11/Jun/2025 20:52:07] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:52:11,528 | INFO | User upendra logged out
+2025-06-11 20:52:11,532 | INFO | 127.0.0.1 - - [11/Jun/2025 20:52:11] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-06-11 20:52:11,542 | INFO | 127.0.0.1 - - [11/Jun/2025 20:52:11] "GET / HTTP/1.1" 200 -
+2025-06-11 20:52:11,567 | INFO | 127.0.0.1 - - [11/Jun/2025 20:52:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:52:13,322 | INFO | 127.0.0.1 - - [11/Jun/2025 20:52:13] "GET /login HTTP/1.1" 200 -
+2025-06-11 20:52:17,579 | INFO | User teacher1 logged in with role teacher
+2025-06-11 20:52:17,582 | INFO | 127.0.0.1 - - [11/Jun/2025 20:52:17] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-06-11 20:52:17,610 | INFO | 127.0.0.1 - - [11/Jun/2025 20:52:17] "GET /teacher/dashboard HTTP/1.1" 200 -
+2025-06-11 20:52:17,652 | INFO | 127.0.0.1 - - [11/Jun/2025 20:52:17] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:52:22,536 | INFO | 127.0.0.1 - - [11/Jun/2025 20:52:22] "GET /teacher/update/2 HTTP/1.1" 200 -
+2025-06-11 20:52:30,794 | INFO | Teacher updated student ID 2: balance=0.0, attendance=60.00
+2025-06-11 20:52:30,794 | INFO | 127.0.0.1 - - [11/Jun/2025 20:52:30] "[32mPOST /teacher/update/2 HTTP/1.1[0m" 302 -
+2025-06-11 20:52:30,817 | INFO | 127.0.0.1 - - [11/Jun/2025 20:52:30] "GET /teacher/dashboard HTTP/1.1" 200 -
+2025-06-11 20:52:30,843 | INFO | 127.0.0.1 - - [11/Jun/2025 20:52:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:52:37,995 | INFO | User teacher1 logged out
+2025-06-11 20:52:37,995 | INFO | 127.0.0.1 - - [11/Jun/2025 20:52:37] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-06-11 20:52:38,001 | INFO | 127.0.0.1 - - [11/Jun/2025 20:52:38] "GET / HTTP/1.1" 200 -
+2025-06-11 20:52:38,028 | INFO | 127.0.0.1 - - [11/Jun/2025 20:52:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:52:40,171 | INFO | 127.0.0.1 - - [11/Jun/2025 20:52:40] "GET /login HTTP/1.1" 200 -
+2025-06-11 20:52:48,202 | INFO | User upendra logged in with role student
+2025-06-11 20:52:48,209 | INFO | 127.0.0.1 - - [11/Jun/2025 20:52:48] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-06-11 20:52:48,233 | INFO | 127.0.0.1 - - [11/Jun/2025 20:52:48] "GET /student/dashboard HTTP/1.1" 200 -
+2025-06-11 20:52:48,283 | INFO | 127.0.0.1 - - [11/Jun/2025 20:52:48] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:52:49,816 | INFO | User upendra logged out
+2025-06-11 20:52:49,819 | INFO | 127.0.0.1 - - [11/Jun/2025 20:52:49] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-06-11 20:52:49,825 | INFO | 127.0.0.1 - - [11/Jun/2025 20:52:49] "GET / HTTP/1.1" 200 -
+2025-06-11 20:52:49,851 | INFO | 127.0.0.1 - - [11/Jun/2025 20:52:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:52:51,539 | INFO | 127.0.0.1 - - [11/Jun/2025 20:52:51] "GET /login HTTP/1.1" 200 -
+2025-06-11 20:52:55,621 | INFO | User teacher1 logged in with role teacher
+2025-06-11 20:52:55,625 | INFO | 127.0.0.1 - - [11/Jun/2025 20:52:55] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-06-11 20:52:55,648 | INFO | 127.0.0.1 - - [11/Jun/2025 20:52:55] "GET /teacher/dashboard HTTP/1.1" 200 -
+2025-06-11 20:52:55,695 | INFO | 127.0.0.1 - - [11/Jun/2025 20:52:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:52:58,408 | INFO | 127.0.0.1 - - [11/Jun/2025 20:52:58] "GET /teacher/update/2 HTTP/1.1" 200 -
+2025-06-11 20:53:07,395 | INFO | Teacher updated student ID 2: balance=70000.0, attendance=60.00
+2025-06-11 20:53:07,400 | INFO | 127.0.0.1 - - [11/Jun/2025 20:53:07] "[32mPOST /teacher/update/2 HTTP/1.1[0m" 302 -
+2025-06-11 20:53:07,409 | INFO | 127.0.0.1 - - [11/Jun/2025 20:53:07] "GET /teacher/dashboard HTTP/1.1" 200 -
+2025-06-11 20:53:07,452 | INFO | 127.0.0.1 - - [11/Jun/2025 20:53:07] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:53:12,771 | INFO | User teacher1 logged out
+2025-06-11 20:53:12,774 | INFO | 127.0.0.1 - - [11/Jun/2025 20:53:12] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-06-11 20:53:12,779 | INFO | 127.0.0.1 - - [11/Jun/2025 20:53:12] "GET / HTTP/1.1" 200 -
+2025-06-11 20:53:12,808 | INFO | 127.0.0.1 - - [11/Jun/2025 20:53:12] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:53:15,445 | INFO | 127.0.0.1 - - [11/Jun/2025 20:53:15] "GET /login HTTP/1.1" 200 -
+2025-06-11 20:53:20,059 | INFO | User upendra logged in with role student
+2025-06-11 20:53:20,060 | INFO | 127.0.0.1 - - [11/Jun/2025 20:53:20] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-06-11 20:53:20,084 | INFO | 127.0.0.1 - - [11/Jun/2025 20:53:20] "GET /student/dashboard HTTP/1.1" 200 -
+2025-06-11 20:53:20,118 | INFO | 127.0.0.1 - - [11/Jun/2025 20:53:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:55:14,092 | INFO | User upendra logged out
+2025-06-11 20:55:14,092 | INFO | 127.0.0.1 - - [11/Jun/2025 20:55:14] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-06-11 20:55:14,100 | INFO | 127.0.0.1 - - [11/Jun/2025 20:55:14] "GET / HTTP/1.1" 200 -
+2025-06-11 20:55:14,126 | INFO | 127.0.0.1 - - [11/Jun/2025 20:55:14] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:55:15,967 | INFO | 127.0.0.1 - - [11/Jun/2025 20:55:15] "GET /login HTTP/1.1" 200 -
+2025-06-11 20:55:27,988 | ERROR | Failed login attempt for username: student1
+2025-06-11 20:55:27,992 | INFO | 127.0.0.1 - - [11/Jun/2025 20:55:27] "POST /login HTTP/1.1" 200 -
+2025-06-11 20:55:41,601 | ERROR | Failed login attempt for username: student1
+2025-06-11 20:55:41,601 | INFO | 127.0.0.1 - - [11/Jun/2025 20:55:41] "POST /login HTTP/1.1" 200 -
+2025-06-11 20:55:43,041 | ERROR | Failed login attempt for username: admin
+2025-06-11 20:55:43,043 | INFO | 127.0.0.1 - - [11/Jun/2025 20:55:43] "POST /login HTTP/1.1" 200 -
+2025-06-11 20:55:52,224 | INFO | User admin logged in with role admin
+2025-06-11 20:55:52,224 | INFO | 127.0.0.1 - - [11/Jun/2025 20:55:52] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-06-11 20:55:52,276 | INFO | 127.0.0.1 - - [11/Jun/2025 20:55:52] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-06-11 20:55:52,294 | INFO | 127.0.0.1 - - [11/Jun/2025 20:55:52] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:55:55,976 | INFO | 127.0.0.1 - - [11/Jun/2025 20:55:55] "GET /admin/manage HTTP/1.1" 200 -
+2025-06-11 20:56:20,148 | INFO | User admin logged out
+2025-06-11 20:56:20,148 | INFO | 127.0.0.1 - - [11/Jun/2025 20:56:20] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-06-11 20:56:20,159 | INFO | 127.0.0.1 - - [11/Jun/2025 20:56:20] "GET / HTTP/1.1" 200 -
+2025-06-11 20:56:20,180 | INFO | 127.0.0.1 - - [11/Jun/2025 20:56:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-11 20:56:25,633 | INFO | 127.0.0.1 - - [11/Jun/2025 20:56:25] "POST /chat HTTP/1.1" 200 -
+2025-06-24 09:06:43,682 | INFO |  * Restarting with stat
+2025-06-24 09:06:44,139 | WARNING |  * Debugger is active!
+2025-06-24 09:06:44,151 | INFO |  * Debugger PIN: 112-768-766
+2025-06-24 09:06:44,155 | INFO |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-06-24 09:06:51,766 | INFO | 127.0.0.1 - - [24/Jun/2025 09:06:51] "GET / HTTP/1.1" 200 -
+2025-06-24 09:06:52,278 | INFO | 127.0.0.1 - - [24/Jun/2025 09:06:52] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-06-24 09:06:53,005 | INFO | 127.0.0.1 - - [24/Jun/2025 09:06:53] "[33mGET /static/favicon.ico HTTP/1.1[0m" 404 -
+2025-06-24 09:08:05,309 | INFO | 127.0.0.1 - - [24/Jun/2025 09:08:05] "GET /login HTTP/1.1" 200 -
+2025-06-24 09:08:05,332 | INFO | 127.0.0.1 - - [24/Jun/2025 09:08:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-24 09:08:45,493 | ERROR | Failed login attempt for username: student1
+2025-06-24 09:08:45,493 | INFO | 127.0.0.1 - - [24/Jun/2025 09:08:45] "POST /login HTTP/1.1" 200 -
+2025-06-24 09:08:58,984 | ERROR | Failed login attempt for username: admin
+2025-06-24 09:08:58,986 | INFO | 127.0.0.1 - - [24/Jun/2025 09:08:58] "POST /login HTTP/1.1" 200 -
+2025-06-24 09:09:16,174 | INFO | User admin logged in with role admin
+2025-06-24 09:09:16,174 | INFO | 127.0.0.1 - - [24/Jun/2025 09:09:16] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-06-24 09:09:16,258 | INFO | 127.0.0.1 - - [24/Jun/2025 09:09:16] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-06-24 09:09:16,275 | INFO | 127.0.0.1 - - [24/Jun/2025 09:09:16] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-24 09:09:50,126 | INFO | 127.0.0.1 - - [24/Jun/2025 09:09:50] "GET /admin/manage HTTP/1.1" 200 -
+2025-06-24 09:11:40,135 | INFO | User admin logged out
+2025-06-24 09:11:40,136 | INFO | 127.0.0.1 - - [24/Jun/2025 09:11:40] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-06-24 09:11:40,140 | INFO | 127.0.0.1 - - [24/Jun/2025 09:11:40] "GET / HTTP/1.1" 200 -
+2025-06-24 09:11:40,153 | INFO | 127.0.0.1 - - [24/Jun/2025 09:11:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-24 09:11:42,990 | INFO | 127.0.0.1 - - [24/Jun/2025 09:11:42] "GET /login HTTP/1.1" 200 -
+2025-06-24 09:12:12,941 | ERROR | Failed login attempt for username: uppi
+2025-06-24 09:12:12,944 | INFO | 127.0.0.1 - - [24/Jun/2025 09:12:12] "POST /login HTTP/1.1" 200 -
+2025-06-24 09:12:32,788 | ERROR | Failed login attempt for username: uppi
+2025-06-24 09:12:32,790 | INFO | 127.0.0.1 - - [24/Jun/2025 09:12:32] "POST /login HTTP/1.1" 200 -
+2025-06-24 09:12:56,454 | ERROR | Failed login attempt for username: student1
+2025-06-24 09:12:56,457 | INFO | 127.0.0.1 - - [24/Jun/2025 09:12:56] "POST /login HTTP/1.1" 200 -
+2025-06-24 09:12:58,154 | ERROR | Failed login attempt for username: admin
+2025-06-24 09:12:58,155 | INFO | 127.0.0.1 - - [24/Jun/2025 09:12:58] "POST /login HTTP/1.1" 200 -
+2025-06-24 09:13:10,101 | INFO | User teacher1 logged in with role teacher
+2025-06-24 09:13:10,105 | INFO | 127.0.0.1 - - [24/Jun/2025 09:13:10] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-06-24 09:13:10,160 | INFO | 127.0.0.1 - - [24/Jun/2025 09:13:10] "GET /teacher/dashboard HTTP/1.1" 200 -
+2025-06-24 09:13:10,193 | INFO | 127.0.0.1 - - [24/Jun/2025 09:13:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-24 09:17:07,029 | INFO |  * Restarting with stat
+2025-06-24 09:17:07,540 | WARNING |  * Debugger is active!
+2025-06-24 09:17:07,546 | INFO |  * Debugger PIN: 112-768-766
+2025-06-24 09:17:07,564 | INFO |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-06-24 09:17:17,452 | INFO | 127.0.0.1 - - [24/Jun/2025 09:17:17] "GET / HTTP/1.1" 200 -
+2025-06-24 09:17:18,439 | INFO | 127.0.0.1 - - [24/Jun/2025 09:17:18] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-06-24 09:17:21,055 | INFO | 127.0.0.1 - - [24/Jun/2025 09:17:21] "[33mGET /static/favicon.ico HTTP/1.1[0m" 404 -
+2025-06-24 09:17:24,076 | INFO | 127.0.0.1 - - [24/Jun/2025 09:17:24] "GET /login HTTP/1.1" 200 -
+2025-06-24 09:17:24,108 | INFO | 127.0.0.1 - - [24/Jun/2025 09:17:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-24 09:17:38,539 | INFO | User teacher1 logged in with role teacher
+2025-06-24 09:17:38,539 | INFO | 127.0.0.1 - - [24/Jun/2025 09:17:38] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-06-24 09:17:38,601 | INFO | 127.0.0.1 - - [24/Jun/2025 09:17:38] "GET /teacher/dashboard HTTP/1.1" 200 -
+2025-06-24 09:17:38,623 | INFO | 127.0.0.1 - - [24/Jun/2025 09:17:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-24 09:18:39,171 | INFO | User teacher1 logged out
+2025-06-24 09:18:39,173 | INFO | 127.0.0.1 - - [24/Jun/2025 09:18:39] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-06-24 09:18:39,173 | INFO | 127.0.0.1 - - [24/Jun/2025 09:18:39] "GET / HTTP/1.1" 200 -
+2025-06-24 09:18:39,193 | INFO | 127.0.0.1 - - [24/Jun/2025 09:18:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-24 09:18:41,790 | INFO | 127.0.0.1 - - [24/Jun/2025 09:18:41] "GET /login HTTP/1.1" 200 -
+2025-06-24 09:18:57,712 | INFO | User upendra logged in with role student
+2025-06-24 09:18:57,714 | INFO | 127.0.0.1 - - [24/Jun/2025 09:18:57] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-06-24 09:18:57,772 | INFO | 127.0.0.1 - - [24/Jun/2025 09:18:57] "GET /student/dashboard HTTP/1.1" 200 -
+2025-06-24 09:18:57,800 | INFO | 127.0.0.1 - - [24/Jun/2025 09:18:57] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-24 09:19:26,496 | INFO | User upendra logged out
+2025-06-24 09:19:26,497 | INFO | 127.0.0.1 - - [24/Jun/2025 09:19:26] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-06-24 09:19:26,502 | INFO | 127.0.0.1 - - [24/Jun/2025 09:19:26] "GET / HTTP/1.1" 200 -
+2025-06-24 09:19:26,517 | INFO | 127.0.0.1 - - [24/Jun/2025 09:19:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-24 09:19:31,242 | INFO | 127.0.0.1 - - [24/Jun/2025 09:19:31] "POST /chat HTTP/1.1" 200 -
